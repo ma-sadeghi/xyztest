@@ -6,9 +6,7 @@ name: Publish Python 🐍 distributions 📦 to PyPI
 #   push:
 #     tags: "*"
 
-on:
-  push:
-    tags: "**"
+on: push
 
 jobs:
   deploy:
