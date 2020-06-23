@@ -19,5 +19,7 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
-    - name: Automated Version Bump
-      uses: phips28/gh-action-bump-version@v7.1.0
+    - name:  'Automated Version Bump'
+      uses:  'phips28/gh-action-bump-version@master'
+      with:
+        tag-prefix:  ''
