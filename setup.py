@@ -1,12 +1,20 @@
 import setuptools
 
 
+about = {}
+
+ver_path = convert_path('xyztest/__init__.py')
+with open(ver_path) as f:
+    for line in f:
+        if line.startswith('__version__'):
+            exec(line, about)
+
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
     name="xyztest", # Replace with your own username
-    version="0.0.3",
+    version=about["__version__"],
     author="Amin Sadeghi",
     author_email="amin@sadeghi.com",
     description="A small example package",
