@@ -23,7 +23,7 @@ jobs:
 
     - name: Create local changes
       run: |
-        OPENPNM_VERSION=$(python -c "import openpnm; print(openpnm.__version__)")
+        OPENPNM_VERSION=$(python -c "import xyztest; print(xyztest.__version__)")
         bump2version --current-version $OPENPNM_VERSION patch setup.py
 
     - name: Commit files
