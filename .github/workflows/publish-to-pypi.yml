@@ -1,12 +1,13 @@
 name: Publish 🐍 📦 to PyPI
 
-# on:
-#   release:
-#     types: [created]
-#   push:
-#     tags: "*"
+on:
+  # release:
+  #   types: [created]
+  push:
+    tags:
+     - '*'
 
-on: push
+# on: push
 
 jobs:
   deploy:
