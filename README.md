@@ -1,4 +1,2 @@
-# test-actions
-Test GitHub Actions API
-
-Hello there again...
+# Test GitHub Actions
+This repo is for trying out different features of GitHub Actions...
