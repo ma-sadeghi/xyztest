@@ -9,12 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      TAG: $(git describe --tags `git rev-list --tags --max-count=1`)
+      TAG: $()
     steps:
     - uses: actions/checkout@v2
       with:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+
+    - name: Set env
+      run: echo ::set-env name=TAG::$(git describe --tags `git rev-list --tags --max-count=1`)
 
     - name: Set up Python
       uses: actions/setup-python@v2
