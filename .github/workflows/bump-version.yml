@@ -17,7 +17,8 @@ jobs:
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
 
     - name: Set env
-      run: echo ::set-env name=TAG::$(echo git describe --tags `git rev-list --tags --max-count=1`)
+#       run: echo ::set-env name=TAG::$(echo git describe --tags `git rev-list --tags --max-count=1`)
+      run: echo ::set-env name=TAG::$(echo $GITHUB_SHA | cut -c 1-6)
 
     - name: Set up Python
       uses: actions/setup-python@v2
