@@ -14,10 +14,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        INPUT_BRANCH=${INPUT_BRANCH:-master}
-        INPUT_FORCE=${INPUT_FORCE:-false}
-        INPUT_TAGS=${INPUT_TAGS:-false}
-        INPUT_DIRECTORY=${INPUT_DIRECTORY:-'.'}
         REPOSITORY=${INPUT_REPOSITORY:-$GITHUB_REPOSITORY}
         remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${REPOSITORY}.git"
         git tag | grep --invert-match [0-9].[0-9].[0-9] | xargs -n 1 -I % git push "${remote_repo}" :refs/tags/%
