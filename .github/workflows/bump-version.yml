@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      TAG: $(git describe --tags `git rev-list --tags --max-count=1`)
     steps:
     - uses: actions/checkout@v2
       with:
@@ -21,6 +23,7 @@ jobs:
 
     - name: Install dependencies
       run: |
+        echo ${TAG}
         pip install bump2version
         TAG=$(git describe --tags `git rev-list --tags --max-count=1`)
 
@@ -43,6 +46,10 @@ jobs:
         bump2version --current-version $VERSION major xyztest/__init__.py
 
     - name: Commit files
+      if:
+        contains(github.event.head_commit.message, '#patch') ||
+        contains(github.event.head_commit.message, '#minor') ||
+        contains(github.event.head_commit.message, '#major')        
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
