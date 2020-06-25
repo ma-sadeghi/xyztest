@@ -23,13 +23,24 @@ jobs:
       run: |
         pip install bump2version
 
-    - name: Create local changes
+    - name: Create local changes (patch)
+      if: contains(github.event.head_commit.message, '#patch')
       run: |
         VERSION=$(python -c "import xyztest; print(xyztest.__version__)")
         TAG=$(git describe --tags `git rev-list --tags --max-count=1`)
         bump2version --current-version $VERSION patch xyztest/__init__.py
-        echo $VERSION
-        echo $TAG
+
+    - name: Create local changes (minor)
+      if: contains(github.event.head_commit.message, '#minor')
+      run: |
+        VERSION=$(python -c "import xyztest; print(xyztest.__version__)")
+        bump2version --current-version $VERSION minor xyztest/__init__.py
+
+    - name: Create local changes (major)
+      if: contains(github.event.head_commit.message, '#major')
+      run: |
+        VERSION=$(python -c "import xyztest; print(xyztest.__version__)")
+        bump2version --current-version $VERSION major xyztest/__init__.py
 
     - name: Commit files
       run: |
