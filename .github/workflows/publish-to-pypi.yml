@@ -1,13 +1,9 @@
 name: Publish 🐍 📦 to PyPI
 
 on:
-  # release:
-  #   types: [created]
   push:
     tags:
      - '*'
-
-# on: push
 
 jobs:
   deploy:
@@ -27,14 +23,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install setuptools wheel twine bump2version
         echo ${{ github.event.ref }}
-
-    # - name: Build and publish
-    #   env:
-    #     TWINE_USERNAME: ${{ secrets.PYPI_USERNAME }}
-    #     TWINE_PASSWORD: ${{ secrets.PYPI_PASSWORD }}
-    #   run: |
-    #     python setup.py sdist bdist_wheel
-    #     twine upload dist/*
 
     - name: Build distribution 📦
       run: python setup.py sdist bdist_wheel

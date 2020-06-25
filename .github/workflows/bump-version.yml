@@ -14,35 +14,38 @@ jobs:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
 
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.7
+
+    - name: Install dependencies
+      run: |
+        pip install bump2version
+
+    - name: Create local changes
+      run: |
+        VERSION=$(python -c "import xyztest; print(xyztest.__version__)")
+        TAG=$(git describe --tags `git rev-list --tags --max-count=1`)
+        bump2version --current-version $VERSION patch xyztest/__init__.py
+        echo $VERSION
+        echo $TAG
+
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Add changes" -a
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+
     - name: Bump version and push tag
       uses: anothrNick/github-tag-action@1.17.2
       env:
-        # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # If secrets.GITHUB_TOKEN is used, "Publish to PyPI" action will not be triggered
         GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
         WITH_V: false
         DEFAULT_BUMP: none
-
-    # - name: Set up Python
-    #   uses: actions/setup-python@v2
-    #   with:
-    #     python-version: 3.7
-
-    # - name: Install dependencies
-    #   run: |
-    #     pip install bump2version
-
-    # - name: Create local changes
-    #   run: |
-    #     OPENPNM_VERSION=$(python -c "import xyztest; print(xyztest.__version__)")
-    #     bump2version --current-version $OPENPNM_VERSION patch xyztest/__init__.py
-
-    # - name: Commit files
-    #   run: |
-    #     git config --local user.email "action@github.com"
-    #     git config --local user.name "GitHub Action"
-    #     git commit -m "Add changes" -a
-
-    # - name: Push changes
-    #   uses: ad-m/github-push-action@master
-    #   with:
-    #     github_token: ${{ secrets.GITHUB_TOKEN }}
