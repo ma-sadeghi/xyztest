@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v2
       with:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
@@ -22,24 +22,22 @@ jobs:
     - name: Install dependencies
       run: |
         pip install bump2version
-
-    - name: Create local changes (patch)
-      if: contains(github.event.head_commit.message, '#patch')
-      run: |
         VERSION=$(python -c "import xyztest; print(xyztest.__version__)")
         TAG=$(git describe --tags `git rev-list --tags --max-count=1`)
+
+    - name: Bump version (patch)
+      if: contains(github.event.head_commit.message, '#patch')
+      run: |
         bump2version --current-version $VERSION patch xyztest/__init__.py
 
-    - name: Create local changes (minor)
+    - name: Bump version (minor)
       if: contains(github.event.head_commit.message, '#minor')
       run: |
-        VERSION=$(python -c "import xyztest; print(xyztest.__version__)")
         bump2version --current-version $VERSION minor xyztest/__init__.py
 
-    - name: Create local changes (major)
+    - name: Bump version (major)
       if: contains(github.event.head_commit.message, '#major')
       run: |
-        VERSION=$(python -c "import xyztest; print(xyztest.__version__)")
         bump2version --current-version $VERSION major xyztest/__init__.py
 
     - name: Commit files
