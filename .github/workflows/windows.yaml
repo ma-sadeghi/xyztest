@@ -31,7 +31,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          conda create --name testenv --file conda-win-64.lock
+          # conda create --name testenv --file conda-win-64.lock
+          conda info
 
       - name: Test explicit env
         run: |
