@@ -31,12 +31,9 @@ jobs:
 
       - name: Install dependencies
         run: |
-          conda create --name testenv --file conda-linux-64.lock
+          conda env update --file conda-linux-64.lock --name base
 
       - name: Test explicit env
         run: |
-          conda info
-          conda list
-          conda activate testenv
           conda info
           conda list
