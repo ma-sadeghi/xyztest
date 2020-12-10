@@ -28,6 +28,7 @@ jobs:
         run: |
           # $CONDA is an environment variable pointing to the root of the miniconda directory
           echo $CONDA/bin >> $GITHUB_PATH
+          $CONDA/bin/conda config --set use_only_tar_bz2 true
 
       - name: Cache conda
         uses: actions/cache@v2
