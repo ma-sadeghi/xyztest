@@ -29,9 +29,17 @@ jobs:
           # $CONDA is an environment variable pointing to the root of the miniconda directory
           echo $CONDA/bin >> $GITHUB_PATH
 
+      - name: Cache conda
+        uses: actions/cache@v2
+        env:
+          CACHE_NUMBER: 0  # increase value -> force reset cache
+        with:
+          path: ~/conda_pkgs_dir
+          key: ${{ runner.os }}-conda-${{ env.CACHE_NUMBER }}-${{ hashFiles('requirements.txt') }}
+
       - name: Install dependencies
         run: |
-          conda create --name testenv --file conda-osx-64.lock
+          sudo conda create --name testenv --file conda-osx-64.lock
 
       - name: Test explicit env
         run: |
