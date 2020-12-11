@@ -23,7 +23,6 @@ jobs:
         run: |
           mkdir -p ~/conda_pkgs_dir
           echo "CONDA_PKGS_DIRS=$HOME/conda_pkgs_dir" >> $GITHUB_ENV
-          sudo rm -rf /home/runner/work/_temp
 
       - name: Cache conda
         uses: actions/cache@v1
