@@ -22,7 +22,7 @@ jobs:
       - name: Cache conda
         uses: actions/cache@v1
         with:
-          path: $CONDA/pkgs
+          path: ${{ CONDA }}/pkgs
           key:
             ${{ runner.os }}-conda-testenv-${{ hashFiles('conda-linux-64.lock') }}
           restore-keys: |
