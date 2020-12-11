@@ -24,13 +24,10 @@ jobs:
           mkdir -p $CONDA/pkgs
           echo "CONDA_PKGS_DIRS=$CONDA/pkgs" >> $GITHUB_ENV
 
-      - name: Test CONDA_PKGS_DIRS
-        run: echo $CONDA_PKGS_DIRS
-
       - name: Cache conda
         uses: actions/cache@v1
         with:
-          path: ${{ env.CONDA }}/pkgs
+          path: /usr/share/miniconda/pkgs
           key:
             ${{ runner.os }}-conda-testenv-${{ hashFiles('conda-linux-64.lock') }}
           restore-keys: |
