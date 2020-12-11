@@ -19,6 +19,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Create cache folder if doesn't already exist
+        run: |
+          mkdir -p $CONDA/pkgs
+          echo "CONDA_PKGS_DIRS=$CONDA/pkgs" >> $GITHUB_ENV
+
+      - name: Test CONDA_PKGS_DIRS
+        run: echo $CONDA_PKGS_DIRS
+
       - name: Cache conda
         uses: actions/cache@v1
         with:
