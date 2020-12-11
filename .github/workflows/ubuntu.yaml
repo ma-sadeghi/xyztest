@@ -34,10 +34,10 @@ jobs:
         uses: actions/cache@v2
         with:
           path: ~/conda_pkgs_dir
-        key:
-          ${{ runner.os }}-conda-testenv-${{ hashFiles('conda-linux-64.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-conda-testenv-
+          key:
+            ${{ runner.os }}-conda-testenv-${{ hashFiles('conda-linux-64.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-conda-testenv-
 
       - name: Install dependencies
         run: |
