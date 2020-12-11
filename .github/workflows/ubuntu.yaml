@@ -21,8 +21,8 @@ jobs:
 
       - name: Create cache folder if doesn't already exist
         run: |
-          mkdir -p $CONDA/pkgs
-          echo "CONDA_PKGS_DIRS=$CONDA/pkgs" >> $GITHUB_ENV
+          mkdir -p ~/conda_pkgs_dir
+          echo "CONDA_PKGS_DIRS=$HOME/conda_pkgs_dir" >> $GITHUB_ENV
 
       - name: Cache conda
         uses: actions/cache@v1
