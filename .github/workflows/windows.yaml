@@ -19,6 +19,20 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Create cache folder if doesn't already exist
+        run: |
+          mkdir -p ~/conda_pkgs_dir
+          echo "CONDA_PKGS_DIRS=$HOME/conda_pkgs_dir" >> $GITHUB_ENV
+
+      - name: Cache conda
+        uses: actions/cache@v1
+        with:
+          path: ~/conda_pkgs_dir
+          key:
+            ${{ runner.os }}-conda-env-${{ hashFiles('conda-linux-64.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-conda-env-
+
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
         with:
@@ -29,14 +43,6 @@ jobs:
           # $CONDA is an environment variable pointing to the root of the miniconda directory
           echo $CONDA/Scripts >> $GITHUB_PATH
           $CONDA/Scripts/conda config --set use_only_tar_bz2 true
-
-      - name: Cache conda
-        uses: actions/cache@v2
-        env:
-          CACHE_NUMBER: 1  # increase value -> force reset cache
-        with:
-          path: ~/conda_pkgs_dir
-          key: ${{ runner.os }}-conda-${{ env.CACHE_NUMBER }}-${{ hashFiles('requirements.txt') }}
 
       - name: Install dependencies
         run: |

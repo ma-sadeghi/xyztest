@@ -1,0 +1,48 @@
+name: 🏃 Generate .lock files
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ${{ matrix.operating-system }}
+    defaults:
+      run:
+        shell: bash -l {0}
+
+    strategy:
+      max-parallel: 1
+      matrix:
+        python-version: [3.8]
+        operating-system: [ubuntu-latest]
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Add conda to system path
+        run: |
+          # $CONDA is an environment variable pointing to the root of the miniconda directory
+          echo $CONDA/bin >> $GITHUB_PATH
+          $CONDA/bin/conda config --set use_only_tar_bz2 true
+
+      - name: Install dependencies
+        run: |
+          pip install conda-lock
+
+      - name: Generate .lock files
+        run: |
+          cd etc
+          conda-lock -f porespy.yml -p osx-64 -p linux-64 -p win-64
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Add/update .lock files" -a
+
+      - name: Commit .lock files to /etc folder
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

@@ -22,8 +22,8 @@ jobs:
 
     - name: Set env variables
       run: |
-        echo ::set-env name=TAG::$(git describe --tags `git rev-list --tags --max-count=1`)
-        echo ::set-env name=VER::$(python -c "import xyztest; print(xyztest.__version__)")
+        echo "TAG=$(git describe --tags `git rev-list --tags --max-count=1`)" >> $GITHUB_ENV
+        echo "VERSION=$(python -c "import xyztest; print(xyztest.__version__)")" >> $GITHUB_ENV
 
     - name: Install dependencies
       run: |
