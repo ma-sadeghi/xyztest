@@ -24,12 +24,6 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
 
-      - name: Add conda to system path
-        run: |
-          # $CONDA is an environment variable pointing to the root of the miniconda directory
-          echo $CONDA/bin >> $GITHUB_PATH
-          $CONDA/bin/conda config --set use_only_tar_bz2 true
-
       - name: Cache conda
         uses: actions/cache@v2
         with:
@@ -38,6 +32,12 @@ jobs:
             ${{ runner.os }}-conda-testenv-${{ hashFiles('conda-linux-64.lock') }}
           restore-keys: |
             ${{ runner.os }}-conda-testenv-
+
+      - name: Add conda to system path
+        run: |
+          # $CONDA is an environment variable pointing to the root of the miniconda directory
+          echo $CONDA/bin >> $GITHUB_PATH
+          $CONDA/bin/conda config --set use_only_tar_bz2 true
 
       - name: Install dependencies
         run: |
