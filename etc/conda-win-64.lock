@@ -34,7 +34,7 @@ https://conda.anaconda.org/conda-forge/win-64/libwebp-base-1.1.0-h8ffe710_3.tar.
 https://conda.anaconda.org/conda-forge/win-64/libzopfli-1.0.3-h0e60522_0.tar.bz2#b4b0cbc0abc9f26b730231ffdabf3881
 https://conda.anaconda.org/conda-forge/win-64/lz4-c-1.9.2-h62dcd97_2.tar.bz2#a90475bc5d6e86b41360b614b20aa973
 https://conda.anaconda.org/msys2/win-64/m2w64-gcc-libs-core-5.3.0-7.tar.bz2#276d396bfe8d958f71173b7134f739fa
-https://conda.anaconda.org/conda-forge/win-64/openssl-1.1.1h-he774522_0.tar.bz2#21844b16355ef8faa21fca97794d6825
+https://conda.anaconda.org/conda-forge/win-64/openssl-1.1.1i-h8ffe710_0.tar.bz2#49729ddb4fec3c604009a80e0411bb47
 https://conda.anaconda.org/conda-forge/win-64/pugixml-1.10-ha925a31_1.tar.bz2#1abd67f72577ea9d765ccabcc2390c8b
 https://conda.anaconda.org/conda-forge/win-64/snappy-1.1.8-ha925a31_3.tar.bz2#e227e973dec9f437b28b24f9f0e5f7fe
 https://conda.anaconda.org/conda-forge/win-64/sqlite-3.34.0-h8ffe710_0.tar.bz2#0887d420b945a5342cd03429d475658c
@@ -92,7 +92,7 @@ https://conda.anaconda.org/conda-forge/noarch/pandocfilters-1.4.2-py_1.tar.bz2#b
 https://conda.anaconda.org/conda-forge/noarch/parso-0.7.1-pyh9f0ad1d_0.tar.bz2#f66647d1ec805566d72ac26f62b19c01
 https://conda.anaconda.org/conda-forge/noarch/pickleshare-0.7.5-py_1003.tar.bz2#415f0ebb6198cc2801c73438a9fb5761
 https://conda.anaconda.org/conda-forge/noarch/prometheus_client-0.9.0-pyhd3deb0d_0.tar.bz2#c7af95daf5bae22ead34151e0ab9d041
-https://conda.anaconda.org/conda-forge/noarch/py-1.9.0-pyh9f0ad1d_0.tar.bz2#82beb69c4e05d65702bbde3c63d6ef58
+https://conda.anaconda.org/conda-forge/noarch/py-1.10.0-pyhd3deb0d_0.tar.bz2#88ca1328ecc79a070214aa24911bace8
 https://conda.anaconda.org/conda-forge/noarch/pyasn1-0.4.8-py_0.tar.bz2#06d04c9f8f72ac77911db942eda24fb9
 https://conda.anaconda.org/conda-forge/noarch/pycodestyle-2.6.0-pyh9f0ad1d_0.tar.bz2#a08d6f5a610c7194da158add79f2b018
 https://conda.anaconda.org/conda-forge/noarch/pycparser-2.20-pyh9f0ad1d_2.tar.bz2#aa798d50ffd182a0f6f31478c7f434f6
@@ -140,7 +140,7 @@ https://conda.anaconda.org/conda-forge/win-64/mkl-service-2.3.0-py37h4ab8f01_2.t
 https://conda.anaconda.org/conda-forge/win-64/msgpack-python-1.0.1-py37h8c56517_0.tar.bz2#89e6f15dacdece48fc1c7aee4ed072cd
 https://conda.anaconda.org/conda-forge/win-64/numpy-1.19.4-py37hd20adf4_1.tar.bz2#8e6212fc58b8b1688e682de83f17312e
 https://conda.anaconda.org/conda-forge/win-64/openjpeg-2.3.1-h48faf41_3.tar.bz2#b5d0bf11d2730fd7937865e9d077b7b2
-https://conda.anaconda.org/conda-forge/noarch/packaging-20.7-pyhd3deb0d_0.tar.bz2#0bc8af3dd7a02bd106cd05ac35007309
+https://conda.anaconda.org/conda-forge/noarch/packaging-20.8-pyhd3deb0d_0.tar.bz2#1e483acb0f72b1611b50942458720169
 https://conda.anaconda.org/conda-forge/noarch/partd-1.1.0-py_0.tar.bz2#4afbf2cdf4e6ad279080d3adb5cefaae
 https://conda.anaconda.org/conda-forge/win-64/pillow-8.0.1-py37hdec93a9_0.tar.bz2#6640cae59933e19a2296de7930db696d
 https://conda.anaconda.org/conda-forge/win-64/psutil-5.7.3-py37h0013d47_0.tar.bz2#015669286e0ee1a3f7f25ca17a04e0a7
@@ -230,7 +230,7 @@ https://conda.anaconda.org/conda-forge/win-64/ipython-7.19.0-py37heaed05f_0.tar.
 https://conda.anaconda.org/conda-forge/win-64/nbconvert-6.0.7-py37h03978a9_3.tar.bz2#1bbb1ea7e63926ea34e33f35d39b8540
 https://conda.anaconda.org/conda-forge/win-64/paraview-5.8.1-py37h1bac1c2_2.tar.bz2#71b8e5ace2ce9bc09475c4d6afc192c5
 https://conda.anaconda.org/conda-forge/noarch/prompt_toolkit-3.0.8-hd8ed1ab_0.tar.bz2#adbf1430c1b3c59d7d8154fd71fc5fec
-https://conda.anaconda.org/conda-forge/win-64/ipykernel-5.4.0-py37h7b7c402_0.tar.bz2#fc37d7d366a1cc138256221fb08ca04c
+https://conda.anaconda.org/conda-forge/win-64/ipykernel-5.4.2-py37h7b7c402_0.tar.bz2#93c4cc668f269218812331cb811045a2
 https://conda.anaconda.org/conda-forge/noarch/jupyter_console-6.2.0-py_0.tar.bz2#cb063fba0917fab041217d5a4a3adca0
 https://conda.anaconda.org/conda-forge/noarch/nbval-0.9.6-pyh9f0ad1d_0.tar.bz2#b627e05284e7affc46b6e4878aa1d96b
 https://conda.anaconda.org/conda-forge/win-64/notebook-6.1.5-py37h03978a9_0.tar.bz2#5a112c7461c05d519528d8fc67ba8868
