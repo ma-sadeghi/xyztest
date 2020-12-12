@@ -42,7 +42,7 @@ jobs:
           conda-lock -f porespy.yml -p osx-64 -p linux-64 -p win-64
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add conda-linux-64.lock conda-osx-64.lock conda-win-64.lock
+          git add etc/conda-linux-64.lock etc/conda-osx-64.lock etc/conda-win-64.lock
           git commit -m "Add/update .lock files"
 
       - name: Commit .lock files to /etc folder
