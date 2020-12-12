@@ -46,7 +46,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          conda create --name testenv --file conda-osx-64.lock
+          conda create --name testenv --file etc/conda-osx-64.lock
 
       - name: Test explicit env
         run: |
