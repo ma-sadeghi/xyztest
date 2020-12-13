@@ -29,7 +29,7 @@ jobs:
         with:
           path: ~/conda_pkgs_dir
           key:
-            ${{ runner.os }}-conda-env-${{ hashFiles('conda-osx-64.lock') }}
+            ${{ runner.os }}-conda-env-${{ hashFiles('etc/conda-osx-64.lock') }}
           restore-keys: |
             ${{ runner.os }}-conda-env-
 

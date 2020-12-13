@@ -26,12 +26,14 @@ jobs:
 
       - name: Cache conda
         uses: actions/cache@v1
+        env:
+          CACHE_NUMBER: 0  # increase value -> force reset cache
         with:
           path: ~/conda_pkgs_dir
           key:
-            ${{ runner.os }}-conda-env-${{ hashFiles('conda-linux-64.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-conda-env-
+            ${{ runner.os }}-conda-${{ env.CACHE_NUMBER }}-${{ hashFiles('etc/conda-linux-64.lock') }}
+          # restore-keys: |
+          #   ${{ runner.os }}-conda-env-
 
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
@@ -47,6 +49,10 @@ jobs:
       - name: Install dependencies
         run: |
           conda create --name testenv --file etc/conda-linux-64.lock
+
+      - name: Clean up cache folder
+          run:
+            sudo rm -rf ~/conda_pkgs_dir/*.tar.bz2
 
       - name: Test explicit env
         run: |
