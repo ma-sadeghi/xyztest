@@ -51,8 +51,8 @@ jobs:
           conda create --name testenv --file etc/conda-linux-64.lock
 
       - name: Clean up cache folder
-          run:
-            sudo rm -rf ~/conda_pkgs_dir/*.tar.bz2
+        run:
+          sudo rm -rf ~/conda_pkgs_dir/*.tar.bz2
 
       - name: Test explicit env
         run: |
