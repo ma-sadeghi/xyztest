@@ -212,7 +212,7 @@ https://conda.anaconda.org/conda-forge/linux-64/jupyter_core-4.7.0-py38h578d9bd_
 https://conda.anaconda.org/conda-forge/linux-64/numpy-stl-2.13.0-py38h0b5ebd8_0.tar.bz2#2fde8fd1c83370876ffc00dbdaa8da1b
 https://conda.anaconda.org/conda-forge/linux-64/pandas-1.1.5-py38h51da96c_0.tar.bz2#d014370308f212a24634955b862b0a8e
 https://conda.anaconda.org/conda-forge/noarch/pyevtk-1.1.2-pyh24bf2e0_0.tar.bz2#b3112438927aac2bdd7123b5cc869f0d
-https://conda.anaconda.org/conda-forge/linux-64/pytest-6.2.0-py38h578d9bd_0.tar.bz2#9ffb0e56ecbe624d4c804790d5a68ad4
+https://conda.anaconda.org/conda-forge/linux-64/pytest-6.2.1-py38h578d9bd_0.tar.bz2#5f72fc9166837430127dd61996ff1de6
 https://conda.anaconda.org/conda-forge/linux-64/pywavelets-1.1.1-py38h5c078b8_3.tar.bz2#dafeef887e68bd18ec84681747ca0fd5
 https://conda.anaconda.org/conda-forge/linux-64/scipy-1.5.3-py38hb2138dd_0.tar.bz2#e0ab8ace182b8d88a43c7e25a3ed092f
 https://conda.anaconda.org/conda-forge/linux-64/setuptools-49.6.0-py38h924ce5b_2.tar.bz2#85f49978317e2f963ffd1d0989b16038
@@ -233,7 +233,7 @@ https://conda.anaconda.org/conda-forge/noarch/pardiso4py-0.2.2-pyh9f0ad1d_0.tar.
 https://conda.anaconda.org/conda-forge/noarch/pip-20.3.3-pyhd8ed1ab_0.tar.bz2#c7e5c449e502567a995e4bd09c538faf
 https://conda.anaconda.org/conda-forge/linux-64/pyamg-4.0.0-py38hf6732f7_1003.tar.bz2#44e00bf7a4b6a564e9313181aaea2615
 https://conda.anaconda.org/conda-forge/noarch/pygments-2.7.3-pyhd8ed1ab_0.tar.bz2#d963eb6df37d0a32fd2c12eeae3f5cf9
-https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.0-pyhd8ed1ab_0.tar.bz2#8fda1084aa3edad26a03e85617bb109f
+https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2#92371c25994d0f5d28a01c1fb75ebf86
 https://conda.anaconda.org/conda-forge/noarch/pytest-cache-1.0-py_2.tar.bz2#127d734543b5c04b1429dd402123308f
 https://conda.anaconda.org/conda-forge/noarch/pytest-codestyle-2.0.1-py_0.tar.bz2#74135a4626e6c4bed80955c0adc4d8be
 https://conda.anaconda.org/conda-forge/noarch/pytest-cov-2.10.1-pyh9f0ad1d_0.tar.bz2#0d83b4ea58595e9f685c51ba31f63116

@@ -188,7 +188,7 @@ https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.3.0-hd8ed1ab_
 https://conda.anaconda.org/conda-forge/osx-64/jupyter_core-4.7.0-py38h50d1736_0.tar.bz2#3b207eb36704052c8b3263679f63b5af
 https://conda.anaconda.org/conda-forge/osx-64/numpy-1.19.4-py38h6ced74f_2.tar.bz2#cd6a9194035f60a2c536c3226b3342e0
 https://conda.anaconda.org/conda-forge/osx-64/pyqt-impl-5.12.3-py38h721a93c_6.tar.bz2#8218fce2ef0eb6f79204dbf3f67c5753
-https://conda.anaconda.org/conda-forge/osx-64/pytest-6.2.0-py38h50d1736_0.tar.bz2#09e5d2221d9af980ebf2dbc73ba309cc
+https://conda.anaconda.org/conda-forge/osx-64/pytest-6.2.1-py38h50d1736_0.tar.bz2#0027732797ef96b459ddef7ba398679e
 https://conda.anaconda.org/conda-forge/osx-64/setuptools-49.6.0-py38h5347e94_2.tar.bz2#d60492e2803bc7f3c85544532868cee1
 https://conda.anaconda.org/conda-forge/osx-64/sympy-1.7.1-py38h50d1736_0.tar.bz2#9de730e547eda22a106a5fd10be886c6
 https://conda.anaconda.org/conda-forge/osx-64/terminado-0.9.1-py38h50d1736_1.tar.bz2#9eeb5eb53bce12e00bb55d5bc9ca4d48
@@ -210,7 +210,7 @@ https://conda.anaconda.org/conda-forge/osx-64/pandas-1.1.5-py38he9f00de_0.tar.bz
 https://conda.anaconda.org/conda-forge/noarch/pip-20.3.3-pyhd8ed1ab_0.tar.bz2#c7e5c449e502567a995e4bd09c538faf
 https://conda.anaconda.org/conda-forge/noarch/pyevtk-1.1.2-pyh24bf2e0_0.tar.bz2#b3112438927aac2bdd7123b5cc869f0d
 https://conda.anaconda.org/conda-forge/noarch/pygments-2.7.3-pyhd8ed1ab_0.tar.bz2#d963eb6df37d0a32fd2c12eeae3f5cf9
-https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.0-pyhd8ed1ab_0.tar.bz2#8fda1084aa3edad26a03e85617bb109f
+https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2#92371c25994d0f5d28a01c1fb75ebf86
 https://conda.anaconda.org/conda-forge/osx-64/pyqtchart-5.12-py38h721a93c_6.tar.bz2#f8b7bc1f4644eb1e0d4cb3b99125d18a
 https://conda.anaconda.org/conda-forge/osx-64/pyqtwebengine-5.12.1-py38h721a93c_6.tar.bz2#b2f8627ab6669f25812190214a045873
 https://conda.anaconda.org/conda-forge/noarch/pytest-cache-1.0-py_2.tar.bz2#127d734543b5c04b1429dd402123308f

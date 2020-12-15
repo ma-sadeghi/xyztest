@@ -200,7 +200,7 @@ https://conda.anaconda.org/conda-forge/noarch/pip-20.3.3-pyhd8ed1ab_0.tar.bz2#c7
 https://conda.anaconda.org/conda-forge/win-64/pluggy-0.13.1-py37hf50a25e_3.tar.bz2#111a6331e5e564c5ba3504c884b8c364
 https://conda.anaconda.org/conda-forge/win-64/pyamg-4.0.0-py37h9387523_1003.tar.bz2#ffdfe109adaa1e5a23e33ed6db940874
 https://conda.anaconda.org/conda-forge/noarch/pygments-2.7.3-pyhd8ed1ab_0.tar.bz2#d963eb6df37d0a32fd2c12eeae3f5cf9
-https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.0-pyhd8ed1ab_0.tar.bz2#8fda1084aa3edad26a03e85617bb109f
+https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2#92371c25994d0f5d28a01c1fb75ebf86
 https://conda.anaconda.org/conda-forge/win-64/pyqtchart-5.12-py37hf2a7229_6.tar.bz2#cf58979eb387d2af12e45c528bad62e4
 https://conda.anaconda.org/conda-forge/win-64/pyqtwebengine-5.12.1-py37hf2a7229_6.tar.bz2#feb74ca5a4df704cebebbfafda8f7389
 https://conda.anaconda.org/conda-forge/noarch/tifffile-2020.12.8-pyhd8ed1ab_0.tar.bz2#985c2d8fce8fcaa33e868ff5e7ceb48f
@@ -210,7 +210,7 @@ https://conda.anaconda.org/conda-forge/win-64/bokeh-2.2.3-py37h03978a9_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/jupyterlab_pygments-0.1.2-pyh9f0ad1d_0.tar.bz2#2cbd910890bb328e8959246a1e16fac7
 https://conda.anaconda.org/conda-forge/noarch/nbformat-5.0.8-py_0.tar.bz2#12aaf0d8795a5c375757b49a08e011a2
 https://conda.anaconda.org/conda-forge/win-64/pyqt-5.12.3-py37h03978a9_6.tar.bz2#2cba8406e23eecfa3db51e3da21934d8
-https://conda.anaconda.org/conda-forge/win-64/pytest-6.2.0-py37h03978a9_0.tar.bz2#a5ad077562e2a70e62a1db5c28e22f13
+https://conda.anaconda.org/conda-forge/win-64/pytest-6.2.1-py37h03978a9_0.tar.bz2#0513f666bc1678b7284ce528b6eb0fc7
 https://conda.anaconda.org/conda-forge/win-64/scikit-image-0.17.2-py37h08fd248_4.tar.bz2#27bd8653e6e69d6396809c9f78740cca
 https://conda.anaconda.org/conda-forge/noarch/service_identity-18.1.0-py_0.tar.bz2#bea53ad2212fa8f270c427bd40ce1fbd
 https://conda.anaconda.org/conda-forge/noarch/urllib3-1.25.11-py_0.tar.bz2#4ce0599839b2b4418befe201e5f072fc
