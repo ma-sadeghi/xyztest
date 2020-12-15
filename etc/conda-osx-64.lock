@@ -90,7 +90,7 @@ https://conda.anaconda.org/conda-forge/noarch/decorator-4.4.2-py_0.tar.bz2#d2eab
 https://conda.anaconda.org/conda-forge/noarch/defusedxml-0.6.0-py_0.tar.bz2#37e1033daee0e2edaa5ff42584c52b21
 https://conda.anaconda.org/conda-forge/noarch/entrypoints-0.3-pyhd8ed1ab_1003.tar.bz2#bbf9a201f6ce99a506f4955374d9a9f4
 https://conda.anaconda.org/conda-forge/noarch/flatdict-4.0.1-pyh9f0ad1d_0.tar.bz2#3df3b7f4ed0149076b87bfd23ceb63ea
-https://conda.anaconda.org/conda-forge/noarch/fsspec-0.8.4-py_0.tar.bz2#9bc8332e90f8a54d38caf488f784bd85
+https://conda.anaconda.org/conda-forge/noarch/fsspec-0.8.5-pyhd8ed1ab_0.tar.bz2#6f86dae0901b373f96b7e92768ef6ebe
 https://conda.anaconda.org/conda-forge/osx-64/glib-2.66.3-h519c658_1.tar.bz2#f34c4dac658681118c2a9fa3eece55ae
 https://conda.anaconda.org/conda-forge/osx-64/hdf5-1.10.6-nompi_h0f9794f_1112.tar.bz2#9ab0bd09eb48a0fdba6166028090f4da
 https://conda.anaconda.org/conda-forge/noarch/heapdict-1.0.1-py_0.tar.bz2#77242bfb1e74a627fb06319b5a2d3b95
@@ -207,7 +207,7 @@ https://conda.anaconda.org/conda-forge/noarch/networkx-2.5-py_0.tar.bz2#d836ad84
 https://conda.anaconda.org/conda-forge/osx-64/numba-0.52.0-py38he9f00de_0.tar.bz2#e99164f9d7d6890ee81433699f08eec7
 https://conda.anaconda.org/conda-forge/osx-64/numpy-stl-2.13.0-py38hfb243c8_0.tar.bz2#5c182485fe50834ce4e9994df1276f77
 https://conda.anaconda.org/conda-forge/osx-64/pandas-1.1.5-py38he9f00de_0.tar.bz2#2f12db1fdfb4435f6857845ab8a6ea12
-https://conda.anaconda.org/conda-forge/noarch/pip-20.3.2-pyhd8ed1ab_0.tar.bz2#719570dedeab9188a00c2cb79eeace90
+https://conda.anaconda.org/conda-forge/noarch/pip-20.3.3-pyhd8ed1ab_0.tar.bz2#c7e5c449e502567a995e4bd09c538faf
 https://conda.anaconda.org/conda-forge/noarch/pyevtk-1.1.2-pyh24bf2e0_0.tar.bz2#b3112438927aac2bdd7123b5cc869f0d
 https://conda.anaconda.org/conda-forge/noarch/pygments-2.7.3-pyhd8ed1ab_0.tar.bz2#d963eb6df37d0a32fd2c12eeae3f5cf9
 https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.0-pyhd8ed1ab_0.tar.bz2#8fda1084aa3edad26a03e85617bb109f

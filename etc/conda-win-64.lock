@@ -73,7 +73,7 @@ https://conda.anaconda.org/conda-forge/noarch/defusedxml-0.6.0-py_0.tar.bz2#37e1
 https://conda.anaconda.org/conda-forge/noarch/entrypoints-0.3-pyhd8ed1ab_1003.tar.bz2#bbf9a201f6ce99a506f4955374d9a9f4
 https://conda.anaconda.org/conda-forge/noarch/flatdict-4.0.1-pyh9f0ad1d_0.tar.bz2#3df3b7f4ed0149076b87bfd23ceb63ea
 https://conda.anaconda.org/conda-forge/win-64/freetype-2.10.4-h546665d_0.tar.bz2#ff064b199df93841b871a5c1f600e47c
-https://conda.anaconda.org/conda-forge/noarch/fsspec-0.8.4-py_0.tar.bz2#9bc8332e90f8a54d38caf488f784bd85
+https://conda.anaconda.org/conda-forge/noarch/fsspec-0.8.5-pyhd8ed1ab_0.tar.bz2#6f86dae0901b373f96b7e92768ef6ebe
 https://conda.anaconda.org/conda-forge/win-64/gl2ps-1.4.2-h0597ee9_0.tar.bz2#9f17f1b93f610b4bea2a256d528fe8f6
 https://conda.anaconda.org/conda-forge/noarch/heapdict-1.0.1-py_0.tar.bz2#77242bfb1e74a627fb06319b5a2d3b95
 https://conda.anaconda.org/conda-forge/noarch/idna-2.10-pyh9f0ad1d_0.tar.bz2#f95a12b4f435aae6680fe55ae2eb1b06
@@ -196,7 +196,7 @@ https://conda.anaconda.org/conda-forge/win-64/matplotlib-base-3.3.3-py37h3379fd5
 https://conda.anaconda.org/conda-forge/noarch/networkx-2.5-py_0.tar.bz2#d836ad8453c22192357707026ca21653
 https://conda.anaconda.org/conda-forge/win-64/numba-0.52.0-py37h08fd248_0.tar.bz2#edccdfb7ceb445f94e197ead537a8839
 https://conda.anaconda.org/conda-forge/noarch/pardiso4py-0.2.2-pyh9f0ad1d_0.tar.bz2#0ff32b5ac66a4481f4ac240be5afc493
-https://conda.anaconda.org/conda-forge/noarch/pip-20.3.2-pyhd8ed1ab_0.tar.bz2#719570dedeab9188a00c2cb79eeace90
+https://conda.anaconda.org/conda-forge/noarch/pip-20.3.3-pyhd8ed1ab_0.tar.bz2#c7e5c449e502567a995e4bd09c538faf
 https://conda.anaconda.org/conda-forge/win-64/pluggy-0.13.1-py37hf50a25e_3.tar.bz2#111a6331e5e564c5ba3504c884b8c364
 https://conda.anaconda.org/conda-forge/win-64/pyamg-4.0.0-py37h9387523_1003.tar.bz2#ffdfe109adaa1e5a23e33ed6db940874
 https://conda.anaconda.org/conda-forge/noarch/pygments-2.7.3-pyhd8ed1ab_0.tar.bz2#d963eb6df37d0a32fd2c12eeae3f5cf9
