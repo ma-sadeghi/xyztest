@@ -141,7 +141,7 @@ https://conda.anaconda.org/conda-forge/noarch/automat-20.2.0-py_0.tar.bz2#0931a4
 https://conda.anaconda.org/conda-forge/osx-64/certifi-2020.12.5-py38h50d1736_0.tar.bz2#669f44747bd774e4899bd3e3bc9ea5fa
 https://conda.anaconda.org/conda-forge/osx-64/cffi-1.14.4-py38h979bc6b_1.tar.bz2#e648f242bf242deb64206104cb8cbf1f
 https://conda.anaconda.org/conda-forge/osx-64/cgns-4.1.2-hc87d91f_0.tar.bz2#ddb421e48cae15196676b2602bd9366d
-https://conda.anaconda.org/conda-forge/osx-64/chardet-3.0.4-py38h5347e94_1008.tar.bz2#63b433075e840f92c6f33abff8cf564a
+https://conda.anaconda.org/conda-forge/osx-64/chardet-4.0.0-py38h50d1736_0.tar.bz2#7e7ada73267675ef5bed52662444a3ee
 https://conda.anaconda.org/conda-forge/osx-64/coverage-5.3-py38h5406a74_1.tar.bz2#941baf3f6d93d20d45216a1d03152304
 https://conda.anaconda.org/conda-forge/noarch/cycler-0.10.0-py_2.tar.bz2#f6d7c7e6d8f42cbbec7e07a8d879f91c
 https://conda.anaconda.org/conda-forge/osx-64/cytoolz-0.11.0-py38h1130bcf_1.tar.bz2#5932c8c406bc8fa4c621ad2f5e4d0a1f
@@ -233,12 +233,12 @@ https://conda.anaconda.org/conda-forge/osx-64/pyamg-4.0.0-py38h06049b7_1003.tar.
 https://conda.anaconda.org/conda-forge/osx-64/pyqt-5.12.3-py38h50d1736_6.tar.bz2#b1e061bfd3c043b85a7dde8e17e2bc54
 https://conda.anaconda.org/conda-forge/noarch/service_identity-18.1.0-py_0.tar.bz2#bea53ad2212fa8f270c427bd40ce1fbd
 https://conda.anaconda.org/conda-forge/noarch/tifffile-2020.12.8-pyhd8ed1ab_0.tar.bz2#985c2d8fce8fcaa33e868ff5e7ceb48f
-https://conda.anaconda.org/conda-forge/noarch/urllib3-1.25.11-py_0.tar.bz2#4ce0599839b2b4418befe201e5f072fc
+https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.2-pyhd8ed1ab_0.tar.bz2#8bb930d172961c9ba9ffd6e10a64b844
 https://conda.anaconda.org/conda-forge/noarch/wcwidth-0.2.5-pyh9f0ad1d_2.tar.bz2#5266fcd697043c59621fda522b3d78ee
 https://conda.anaconda.org/conda-forge/noarch/dask-2020.12.0-pyhd8ed1ab_0.tar.bz2#b10d9c6984a9aebdbd26a311b3faf906
 https://conda.anaconda.org/conda-forge/noarch/nbclient-0.5.1-py_0.tar.bz2#4efba375c50e6668cb5778e36d1f3a7e
 https://conda.anaconda.org/conda-forge/noarch/prompt-toolkit-3.0.8-pyha770c72_0.tar.bz2#e4df54860ae814be2dba503c97748173
-https://conda.anaconda.org/conda-forge/noarch/requests-2.25.0-pyhd3deb0d_0.tar.bz2#5b983af1f3dcd93ef20f6067d077f6fe
+https://conda.anaconda.org/conda-forge/noarch/requests-2.25.1-pyhd3deb0d_0.tar.bz2#ae687aba31a1c400192a86a2e993ffdc
 https://conda.anaconda.org/conda-forge/osx-64/twisted-20.3.0-py38h4d0b108_1.tar.bz2#a2daad0baeb74bf61506d77b7fec053c
 https://conda.anaconda.org/conda-forge/noarch/codecov-2.1.10-pyh9f0ad1d_0.tar.bz2#b9bed92b569ffba92ea796af102851dc
 https://conda.anaconda.org/conda-forge/osx-64/ipython-7.19.0-py38h9bb44b7_0.tar.bz2#e661eca601c26a5cb8ee136392aba691
