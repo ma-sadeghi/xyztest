@@ -3,12 +3,12 @@
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/win-64/ca-certificates-2020.12.5-h5b45459_0.tar.bz2#f36a2988a9f57cffdc43929ba67a3a2a
 https://conda.anaconda.org/conda-forge/win-64/intel-openmp-2020.3-h57928b3_311.tar.bz2#361a51c98a0cb06415bd3f9d3bbb5778
-https://conda.anaconda.org/msys2/win-64/msys2-conda-epoch-20160418-1.tar.bz2#6eaef3074f65f715ed1ca6b8a08be3aa
+https://conda.anaconda.org/conda-forge/win-64/msys2-conda-epoch-20160418-1.tar.bz2#b0309b72560df66f71a9d5e34a5efdfa
 https://conda.anaconda.org/conda-forge/win-64/pandoc-2.11.2-h8ffe710_0.tar.bz2#c851ffee6cf05f784fab5d2f3faee63c
 https://conda.anaconda.org/conda-forge/win-64/vs2015_runtime-14.16.27012-h30e32a0_2.tar.bz2#37a0bcc72c5e97f5602dca37eb3f8314
 https://conda.anaconda.org/conda-forge/win-64/winpty-0.4.3-4.tar.bz2#1cee351bf20b830d991dbe0bc8cd7dfe
-https://conda.anaconda.org/msys2/win-64/m2w64-gmp-6.1.0-2.tar.bz2#fec04371463ec68eb8f5752a22c5b030
-https://conda.anaconda.org/msys2/win-64/m2w64-libwinpthread-git-5.0.0.4634.697f757-2.tar.bz2#67e61e700eb27424979778fae9293f13
+https://conda.anaconda.org/conda-forge/win-64/m2w64-gmp-6.1.0-2.tar.bz2#53a1c73e1e3d185516d7e3af177596d9
+https://conda.anaconda.org/conda-forge/win-64/m2w64-libwinpthread-git-5.0.0.4634.697f757-2.tar.bz2#774130a326dee16f1ceb05cc687ee4f0
 https://conda.anaconda.org/conda-forge/win-64/mkl-2020.4-hb70f87d_311.tar.bz2#eb823c8b41ecf9cd5f08baea1b32e4ef
 https://conda.anaconda.org/conda-forge/win-64/vc-14.1-h869be7e_1.tar.bz2#4fae57303daa91367eca263374e4a638
 https://conda.anaconda.org/conda-forge/win-64/blosc-1.20.1-h0e60522_0.tar.bz2#39633c5dcf7be91a0640e1f6fccddeac
@@ -33,7 +33,7 @@ https://conda.anaconda.org/conda-forge/win-64/libsodium-1.0.18-h8d14728_1.tar.bz
 https://conda.anaconda.org/conda-forge/win-64/libwebp-base-1.1.0-h8ffe710_3.tar.bz2#8e622d4dc5bb765fba17cac6d8fbfa28
 https://conda.anaconda.org/conda-forge/win-64/libzopfli-1.0.3-h0e60522_0.tar.bz2#b4b0cbc0abc9f26b730231ffdabf3881
 https://conda.anaconda.org/conda-forge/win-64/lz4-c-1.9.2-h62dcd97_2.tar.bz2#a90475bc5d6e86b41360b614b20aa973
-https://conda.anaconda.org/msys2/win-64/m2w64-gcc-libs-core-5.3.0-7.tar.bz2#276d396bfe8d958f71173b7134f739fa
+https://conda.anaconda.org/conda-forge/win-64/m2w64-gcc-libs-core-5.3.0-7.tar.bz2#4289d80fb4d272f1f3b56cfe87ac90bd
 https://conda.anaconda.org/conda-forge/win-64/openssl-1.1.1i-h8ffe710_0.tar.bz2#49729ddb4fec3c604009a80e0411bb47
 https://conda.anaconda.org/conda-forge/win-64/pugixml-1.10-ha925a31_1.tar.bz2#1abd67f72577ea9d765ccabcc2390c8b
 https://conda.anaconda.org/conda-forge/win-64/snappy-1.1.8-ha925a31_3.tar.bz2#e227e973dec9f437b28b24f9f0e5f7fe
@@ -52,7 +52,7 @@ https://conda.anaconda.org/conda-forge/win-64/libprotobuf-3.13.0.1-h200bbdf_0.ta
 https://conda.anaconda.org/conda-forge/win-64/libssh2-1.9.0-hb06d900_5.tar.bz2#d98a41c806a42bffd8b05a2e6f1132f1
 https://conda.anaconda.org/conda-forge/win-64/libtheora-1.1.1-h62dcd97_1004.tar.bz2#a7a4d5afb35a3d64e3d3a8dc4744a889
 https://conda.anaconda.org/conda-forge/win-64/libxml2-2.9.10-h1006b36_2.tar.bz2#9392b3214cbdde0d9e64f83915f91d45
-https://conda.anaconda.org/msys2/win-64/m2w64-gcc-libgfortran-5.3.0-6.tar.bz2#de1b7f7c8221028f6bbe103df4c53bed
+https://conda.anaconda.org/conda-forge/win-64/m2w64-gcc-libgfortran-5.3.0-6.tar.bz2#066552ac6b907ec6d72c0ddab29050dc
 https://conda.anaconda.org/conda-forge/win-64/python-3.7.9-h7840368_0_cpython.tar.bz2#5ca79ee9f34ec56ec44388bc7d209e7e
 https://conda.anaconda.org/conda-forge/win-64/zeromq-4.3.3-h0e60522_3.tar.bz2#3f14354fbaa50a70595d6d1a54292996
 https://conda.anaconda.org/conda-forge/win-64/zstd-1.4.5-h1f3a1b7_2.tar.bz2#b35d995f210429648e920844701b57a9
@@ -84,7 +84,7 @@ https://conda.anaconda.org/conda-forge/noarch/ipython_genutils-0.2.0-py_1.tar.bz
 https://conda.anaconda.org/conda-forge/win-64/libcurl-7.71.1-h4b64cdc_8.tar.bz2#47468949c81228d0f8a492a124688221
 https://conda.anaconda.org/conda-forge/win-64/libtiff-4.1.0-hc10be44_6.tar.bz2#a9dcdf2d500c7ae524a58d4249a0197a
 https://conda.anaconda.org/conda-forge/noarch/locket-0.2.0-py_2.tar.bz2#709e8671651c7ec3d1ad07800339ff1d
-https://conda.anaconda.org/msys2/win-64/m2w64-gcc-libs-5.3.0-7.tar.bz2#0b9caac6747002340b057a222af705b2
+https://conda.anaconda.org/conda-forge/win-64/m2w64-gcc-libs-5.3.0-7.tar.bz2#fe759119b8b3bfa720b8762c6fdc35de
 https://conda.anaconda.org/conda-forge/noarch/more-itertools-8.6.0-pyhd8ed1ab_0.tar.bz2#980af7a97980ad4cc867b3c1fad782e7
 https://conda.anaconda.org/conda-forge/noarch/mpmath-1.1.0-py_0.tar.bz2#710eeb108dbbbb96d38f9cde359f6a94
 https://conda.anaconda.org/conda-forge/noarch/nest-asyncio-1.4.3-pyhd8ed1ab_0.tar.bz2#a1f2fda4d88c624810bf2029aa4c0827
