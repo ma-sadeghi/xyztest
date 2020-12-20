@@ -4,7 +4,7 @@
 https://conda.anaconda.org/conda-forge/win-64/ca-certificates-2020.12.5-h5b45459_0.tar.bz2#f36a2988a9f57cffdc43929ba67a3a2a
 https://conda.anaconda.org/conda-forge/win-64/intel-openmp-2020.3-h57928b3_311.tar.bz2#361a51c98a0cb06415bd3f9d3bbb5778
 https://conda.anaconda.org/conda-forge/win-64/msys2-conda-epoch-20160418-1.tar.bz2#b0309b72560df66f71a9d5e34a5efdfa
-https://conda.anaconda.org/conda-forge/win-64/pandoc-2.11.3-h8ffe710_0.tar.bz2#f9585ec2b2f2abfa3840a0fe3cf8ece0
+https://conda.anaconda.org/conda-forge/win-64/pandoc-2.11.3.1-h8ffe710_0.tar.bz2#aabcb20c5cc5d3e472e9232f33e89384
 https://conda.anaconda.org/conda-forge/win-64/vs2015_runtime-14.16.27012-h30e32a0_2.tar.bz2#37a0bcc72c5e97f5602dca37eb3f8314
 https://conda.anaconda.org/conda-forge/win-64/winpty-0.4.3-4.tar.bz2#1cee351bf20b830d991dbe0bc8cd7dfe
 https://conda.anaconda.org/conda-forge/win-64/m2w64-gmp-6.1.0-2.tar.bz2#53a1c73e1e3d185516d7e3af177596d9
@@ -82,7 +82,7 @@ https://conda.anaconda.org/conda-forge/noarch/incremental-17.5.0-py_0.tar.bz2#89
 https://conda.anaconda.org/conda-forge/noarch/iniconfig-1.1.1-pyh9f0ad1d_0.tar.bz2#39161f81cc5e5ca45b8226fbb06c6905
 https://conda.anaconda.org/conda-forge/noarch/ipython_genutils-0.2.0-py_1.tar.bz2#5071c982548b3a20caf70462f04f5287
 https://conda.anaconda.org/conda-forge/win-64/libcurl-7.71.1-h4b64cdc_8.tar.bz2#47468949c81228d0f8a492a124688221
-https://conda.anaconda.org/conda-forge/win-64/libtiff-4.1.0-hc10be44_6.tar.bz2#a9dcdf2d500c7ae524a58d4249a0197a
+https://conda.anaconda.org/conda-forge/win-64/libtiff-4.2.0-hc10be44_0.tar.bz2#7f2eeddf7e5a137f488377fc4aeec849
 https://conda.anaconda.org/conda-forge/noarch/locket-0.2.0-py_2.tar.bz2#709e8671651c7ec3d1ad07800339ff1d
 https://conda.anaconda.org/conda-forge/win-64/m2w64-gcc-libs-5.3.0-7.tar.bz2#fe759119b8b3bfa720b8762c6fdc35de
 https://conda.anaconda.org/conda-forge/noarch/more-itertools-8.6.0-pyhd8ed1ab_0.tar.bz2#980af7a97980ad4cc867b3c1fad782e7

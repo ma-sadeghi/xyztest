@@ -8,7 +8,7 @@ https://conda.anaconda.org/conda-forge/linux-64/libgfortran5-9.3.0-he4bcb1c_17.t
 https://conda.anaconda.org/conda-forge/linux-64/libstdcxx-ng-9.3.0-h2ae2ef3_17.tar.bz2#342f3c931d0a3a209ab09a522469d20c
 https://conda.anaconda.org/conda-forge/linux-64/llvm-openmp-11.0.0-hfc4b9b4_1.tar.bz2#5867a5b3381754759e3943b1744c339c
 https://conda.anaconda.org/conda-forge/linux-64/mysql-common-8.0.21-2.tar.bz2#96f3f7d5ae9784774cd5eb553cdf1ba7
-https://conda.anaconda.org/conda-forge/linux-64/pandoc-2.11.3-h7f98852_0.tar.bz2#6aecbff4322bf1943c857fe1ff6e2aa5
+https://conda.anaconda.org/conda-forge/linux-64/pandoc-2.11.3.1-h7f98852_0.tar.bz2#dfe24e3086ed14e185967bc21ad66f47
 https://conda.anaconda.org/conda-forge/linux-64/_openmp_mutex-4.5-1_llvm.tar.bz2#fa8d764c883a53d22ce622bea830c818
 https://conda.anaconda.org/conda-forge/linux-64/libgfortran-ng-9.3.0-he4bcb1c_17.tar.bz2#f92019e2b944dc3e5d33d0efba4a3461
 https://conda.anaconda.org/conda-forge/linux-64/libgcc-ng-9.3.0-h5dbcf3e_17.tar.bz2#fc9f5adabc4d55cd4b491332adc413e0
@@ -83,7 +83,7 @@ https://conda.anaconda.org/conda-forge/linux-64/libclang-10.0.1-default_hde54327
 https://conda.anaconda.org/conda-forge/linux-64/libglib-2.66.3-hbe7bbb4_0.tar.bz2#d5a09a9e981849b751cb75656b7302a0
 https://conda.anaconda.org/conda-forge/linux-64/liblapack-3.9.0-3_openblas.tar.bz2#8fd9fca8f58e6e132f55dd2330cae671
 https://conda.anaconda.org/conda-forge/linux-64/libtheora-1.1.1-h516909a_1004.tar.bz2#c3107718075b814ea81192f0770eaffc
-https://conda.anaconda.org/conda-forge/linux-64/libtiff-4.1.0-h4f3a223_6.tar.bz2#26f3a89355b93d26418088a749fd9880
+https://conda.anaconda.org/conda-forge/linux-64/libtiff-4.2.0-hdc55705_0.tar.bz2#f1406324f1d02fa26447a0a0f2dd0107
 https://conda.anaconda.org/conda-forge/linux-64/mpc-1.1.0-h04dde30_1009.tar.bz2#04a83b86c244fd8fe557a24e50b0028e
 https://conda.anaconda.org/conda-forge/linux-64/mysql-libs-8.0.21-hf3661c5_2.tar.bz2#f2e5829fe70bce8eb7916010c329d759
 https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.34.0-h74cdb3f_0.tar.bz2#0a83e21e8c1929cc9a1e21ebb2459fc5
