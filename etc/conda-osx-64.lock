@@ -34,7 +34,7 @@ https://conda.anaconda.org/conda-forge/osx-64/lerc-2.2-h046ec9c_0.tar.bz2#4d0915
 https://conda.anaconda.org/conda-forge/osx-64/libaec-1.0.4-h046ec9c_1.tar.bz2#b573eb14edcd87c201135eedc7057361
 https://conda.anaconda.org/conda-forge/osx-64/libedit-3.1.20191231-h0678c8f_2.tar.bz2#6016a8a1d0e63cac3de2c352cd40208b
 https://conda.anaconda.org/conda-forge/osx-64/libffi-3.3-h046ec9c_2.tar.bz2#c7a196accaf92d40985d5c9b4d14f9cb
-https://conda.anaconda.org/conda-forge/osx-64/libgfortran5-9.3.0-h7cc5361_13.tar.bz2#f9f3fc3c2e4f3deb6820a395ffb6071d
+https://conda.anaconda.org/conda-forge/osx-64/libgfortran5-9.3.0-h6c81a4c_14.tar.bz2#e13f06d8f3b8c8af06ecad21aa05d832
 https://conda.anaconda.org/conda-forge/osx-64/libllvm10-10.0.1-h009f743_3.tar.bz2#cc65eb0b26253d2789320bfd661852f9
 https://conda.anaconda.org/conda-forge/osx-64/libpng-1.6.37-h7cec526_2.tar.bz2#9e52521faba2b53269672628d34e1513
 https://conda.anaconda.org/conda-forge/osx-64/libprotobuf-3.13.0.1-hab81aa3_0.tar.bz2#d75b16109023b14f178ab9b79a8396b3
@@ -57,7 +57,7 @@ https://conda.anaconda.org/conda-forge/osx-64/gettext-0.19.8.1-h7937167_1005.tar
 https://conda.anaconda.org/conda-forge/osx-64/gl2ps-1.4.2-h4cff582_0.tar.bz2#a9e91533b95cd019d58f4b3ef9bbddf0
 https://conda.anaconda.org/conda-forge/osx-64/krb5-1.17.2-h60d9502_0.tar.bz2#abf2add2a1ade1920b25a8f3327a1aa0
 https://conda.anaconda.org/conda-forge/osx-64/libclang-10.0.1-default_hf57f61e_1.tar.bz2#5c80fc4dfc1f7bb314a206a02e6d6c47
-https://conda.anaconda.org/conda-forge/osx-64/libgfortran-5.0.0-h7cc5361_13.tar.bz2#d439af12d04584f443d4f69c6147a661
+https://conda.anaconda.org/conda-forge/osx-64/libgfortran-5.0.0-h6c81a4c_14.tar.bz2#eb4946815998a5420d9093c19acb156e
 https://conda.anaconda.org/conda-forge/osx-64/libnghttp2-1.41.0-h7580e61_2.tar.bz2#1731a2e73e2d68d455a1b8b8de0265dc
 https://conda.anaconda.org/conda-forge/osx-64/libssh2-1.9.0-h8a08a2b_5.tar.bz2#2e0e86262d3c9a11230ab55fc0468e49
 https://conda.anaconda.org/conda-forge/osx-64/libtheora-1.1.1-haf1e3a3_1004.tar.bz2#577829533fad49b51e7254676ae7f9cd
