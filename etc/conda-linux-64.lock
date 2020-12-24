@@ -124,6 +124,7 @@ https://conda.anaconda.org/conda-forge/noarch/idna-2.10-pyh9f0ad1d_0.tar.bz2#f95
 https://conda.anaconda.org/conda-forge/noarch/incremental-17.5.0-py_0.tar.bz2#893135cf399e206eaa192e437a61bef9
 https://conda.anaconda.org/conda-forge/noarch/iniconfig-1.1.1-pyh9f0ad1d_0.tar.bz2#39161f81cc5e5ca45b8226fbb06c6905
 https://conda.anaconda.org/conda-forge/noarch/ipython_genutils-0.2.0-py_1.tar.bz2#5071c982548b3a20caf70462f04f5287
+https://conda.anaconda.org/conda-forge/noarch/jupyterlab_widgets-1.0.0-pyhd8ed1ab_0.tar.bz2#207f5a9b750a908e4a78da6d80b6071b
 https://conda.anaconda.org/conda-forge/noarch/locket-0.2.0-py_2.tar.bz2#709e8671651c7ec3d1ad07800339ff1d
 https://conda.anaconda.org/conda-forge/noarch/more-itertools-8.6.0-pyhd8ed1ab_0.tar.bz2#980af7a97980ad4cc867b3c1fad782e7
 https://conda.anaconda.org/conda-forge/noarch/mpmath-1.1.0-py_0.tar.bz2#710eeb108dbbbb96d38f9cde359f6a94
@@ -274,5 +275,5 @@ https://conda.anaconda.org/conda-forge/linux-64/notebook-6.1.6-py38h578d9bd_0.ta
 https://conda.anaconda.org/conda-forge/noarch/openpnm-2.6.1-pyhd3deb0d_0.tar.bz2#98fadfce811b17549b89e35a2596a6a7
 https://conda.anaconda.org/conda-forge/noarch/qtconsole-5.0.1-pyhd8ed1ab_0.tar.bz2#8c5f05626faea7f30c9acb057e2a8859
 https://conda.anaconda.org/conda-forge/linux-64/widgetsnbextension-3.5.1-py38h578d9bd_4.tar.bz2#beb8a105545382ba138c81c926289b5b
-https://conda.anaconda.org/conda-forge/noarch/ipywidgets-7.5.1-pyh9f0ad1d_1.tar.bz2#a7211644e1cf6a262c675635a78181f4
+https://conda.anaconda.org/conda-forge/noarch/ipywidgets-7.6.0-pyhd3deb0d_0.tar.bz2#982751b0dadff6724a24d2a9cc647ee7
 https://conda.anaconda.org/conda-forge/noarch/jupyter-1.0.0-py_2.tar.bz2#46b26993ed7c689863313a03ee39e5e3
