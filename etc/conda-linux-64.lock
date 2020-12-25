@@ -142,7 +142,7 @@ https://conda.anaconda.org/conda-forge/noarch/pycparser-2.20-pyh9f0ad1d_2.tar.bz
 https://conda.anaconda.org/conda-forge/noarch/pyhamcrest-2.0.2-py_0.tar.bz2#008bcb771d03dcd79b3585fa483d144f
 https://conda.anaconda.org/conda-forge/noarch/pyparsing-2.4.7-pyh9f0ad1d_0.tar.bz2#626c4f20d5bf06dcec9cf2eaa31725c7
 https://conda.anaconda.org/conda-forge/linux-64/python_abi-3.8-1_cp38.tar.bz2#8d05152d6fb3012b27a0e6fbcc14bea1
-https://conda.anaconda.org/conda-forge/noarch/pytz-2020.4-pyhd8ed1ab_0.tar.bz2#14aefc827cbbd156cb1bd9e992210380
+https://conda.anaconda.org/conda-forge/noarch/pytz-2020.5-pyhd8ed1ab_0.tar.bz2#9dbafab7fbbc1ef46a60858fb6320d8a
 https://conda.anaconda.org/conda-forge/noarch/qtpy-1.9.0-py_0.tar.bz2#ab75b0ea90d2621e1924b824e2f395ee
 https://conda.anaconda.org/conda-forge/noarch/send2trash-1.5.0-py_0.tar.bz2#c3779037a635e1150f1c53c28b875949
 https://conda.anaconda.org/conda-forge/noarch/six-1.15.0-pyh9f0ad1d_0.tar.bz2#1eec421f0f1f39e579e44e4a5ce646a2
@@ -174,7 +174,7 @@ https://conda.anaconda.org/conda-forge/linux-64/gmpy2-2.1.0b1-py38hd744826_1.tar
 https://conda.anaconda.org/conda-forge/linux-64/gst-plugins-base-1.14.5-h0935bb2_2.tar.bz2#eb125ee86480e00a4a1ed45a577c3311
 https://conda.anaconda.org/conda-forge/noarch/hyperlink-20.0.1-pyh9f0ad1d_0.tar.bz2#b25da0ef0e031a4b5904337026b4b289
 https://conda.anaconda.org/conda-forge/linux-64/importlib-metadata-3.3.0-py38h578d9bd_2.tar.bz2#fb989c438e9a590a175d361eb8cb077c
-https://conda.anaconda.org/conda-forge/linux-64/jedi-0.17.2-py38h578d9bd_1.tar.bz2#f4eda1939aa75de2af5dc10c1f3a9224
+https://conda.anaconda.org/conda-forge/linux-64/jedi-0.18.0-py38h578d9bd_0.tar.bz2#0e7baae39bb2593932797be5aaa4abb1
 https://conda.anaconda.org/conda-forge/linux-64/kiwisolver-1.3.1-py38h82cb98a_0.tar.bz2#63021f4bd12e4be94cdcac752f3a8f46
 https://conda.anaconda.org/conda-forge/linux-64/libnetcdf-4.7.4-nompi_h56d31a8_107.tar.bz2#ef3d349e818876a175de7d87bd6451df
 https://conda.anaconda.org/conda-forge/linux-64/llvmlite-0.35.0-py38h4630a5e_0.tar.bz2#639205ca92e2e66e9511ee00044f3790
