@@ -28,6 +28,7 @@ https://conda.anaconda.org/conda-forge/linux-64/jsoncpp-1.8.4-hc9558a2_1002.tar.
 https://conda.anaconda.org/conda-forge/linux-64/jxrlib-1.1-h7f98852_2.tar.bz2#8e787b08fe19986d99d034b839df2961
 https://conda.anaconda.org/conda-forge/linux-64/lerc-2.2.1-h9c3ff4c_0.tar.bz2#ea833dcaeb9e7ac4fac521f1a7abec82
 https://conda.anaconda.org/conda-forge/linux-64/libaec-1.0.4-h9c3ff4c_1.tar.bz2#90dbd3066828b76fa810578e49cef920
+https://conda.anaconda.org/conda-forge/linux-64/libdeflate-1.7-h7f98852_4.tar.bz2#a2d0edada3a96ad588e828742990fcad
 https://conda.anaconda.org/conda-forge/linux-64/libev-4.33-h516909a_1.tar.bz2#6f8720dff19e17ce5d48cfe7f3d2f0a3
 https://conda.anaconda.org/conda-forge/linux-64/libffi-3.3-h58526e2_2.tar.bz2#665369991d8dd290ac5ee92fce3e6bf5
 https://conda.anaconda.org/conda-forge/linux-64/libglu-9.0.0-he1b5a44_1001.tar.bz2#8208602aec4826053c116552369a394c
@@ -208,7 +209,7 @@ https://conda.anaconda.org/conda-forge/noarch/dask-core-2020.12.0-pyhd8ed1ab_0.t
 https://conda.anaconda.org/conda-forge/linux-64/edt-2.0.2-py38h82cb98a_0.tar.bz2#3e764958b2e76f58254b3982614f5785
 https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.11-py_0.tar.bz2#4b723fdb7778db332faa8f2613fe6bf3
 https://conda.anaconda.org/conda-forge/linux-64/h5py-3.1.0-nompi_py38hafa665b_100.tar.bz2#550f5817655c72e184df36588bb32e64
-https://conda.anaconda.org/conda-forge/linux-64/imagecodecs-2020.5.30-py38h67f9a0b_4.tar.bz2#8befff54968f7175b42826306ca712bd
+https://conda.anaconda.org/conda-forge/linux-64/imagecodecs-2020.12.24-py38h67f9a0b_0.tar.bz2#40a45e09866b8e1702dc430db3cf73d5
 https://conda.anaconda.org/conda-forge/noarch/imageio-2.9.0-py_0.tar.bz2#62ad9e579278e777d4abaa8c9312b6a7
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.3.0-hd8ed1ab_2.tar.bz2#936c79b1b03cec81f74fb88f4fb4caa8
 https://conda.anaconda.org/conda-forge/linux-64/jupyter_core-4.7.0-py38h578d9bd_0.tar.bz2#aa83f54189c3289055f7811fbabc2d12
