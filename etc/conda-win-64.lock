@@ -25,7 +25,7 @@ https://conda.anaconda.org/conda-forge/win-64/jsoncpp-1.8.4-h1ad3211_1002.tar.bz
 https://conda.anaconda.org/conda-forge/win-64/jxrlib-1.1-h8ffe710_2.tar.bz2#69f82948e102dc14928619140c29468d
 https://conda.anaconda.org/conda-forge/win-64/lerc-2.2.1-h0e60522_0.tar.bz2#5ea14f204e4caaea47598f719adbf80b
 https://conda.anaconda.org/conda-forge/win-64/libaec-1.0.4-h39d44d4_1.tar.bz2#6a35bd17a3db8f3a12a2a30ef0dc60d4
-https://conda.anaconda.org/conda-forge/win-64/libblas-3.8.0-21_mkl.tar.bz2#b8ba9c59e6762dbbc262ddda59a25e2c
+https://conda.anaconda.org/conda-forge/win-64/libblas-3.9.0-4_mkl.tar.bz2#1a1f1e4d6acc0528e6574f230bd7bcb6
 https://conda.anaconda.org/conda-forge/win-64/libclang-11.0.0-default_h5c34c98_2.tar.bz2#b2d6e036f163281953068cefac6b14f6
 https://conda.anaconda.org/conda-forge/win-64/libdeflate-1.7-h8ffe710_4.tar.bz2#27f4109e6a95fb42e85a3cf94b12227f
 https://conda.anaconda.org/conda-forge/win-64/libiconv-1.16-he774522_0.tar.bz2#bdfeadc9348e4d9fbe4821e81bf8f221
@@ -46,8 +46,8 @@ https://conda.anaconda.org/conda-forge/win-64/zfp-0.5.5-h0e60522_4.tar.bz2#65f2b
 https://conda.anaconda.org/conda-forge/win-64/zlib-1.2.11-h62dcd97_1010.tar.bz2#a4cdf389c5f73e60a0ca121ff77c22a9
 https://conda.anaconda.org/conda-forge/win-64/hdf4-4.2.13-h0e5069d_1004.tar.bz2#560b7afe9baf32865dbf51b775e79b4b
 https://conda.anaconda.org/conda-forge/win-64/krb5-1.17.2-hbae68bd_0.tar.bz2#36781bd85367e21cda881c9a5212ea9c
-https://conda.anaconda.org/conda-forge/win-64/libcblas-3.8.0-21_mkl.tar.bz2#b34f80f184366e1cdb4ba867bd45f609
-https://conda.anaconda.org/conda-forge/win-64/liblapack-3.8.0-21_mkl.tar.bz2#6ef6b80f1f7db5cc345b9e4336798ac6
+https://conda.anaconda.org/conda-forge/win-64/libcblas-3.9.0-4_mkl.tar.bz2#5f12982a29b3f3dda6c703b4bd73605f
+https://conda.anaconda.org/conda-forge/win-64/liblapack-3.9.0-4_mkl.tar.bz2#99a8d5b49eeccf4ccc19ad90510d7233
 https://conda.anaconda.org/conda-forge/win-64/libpng-1.6.37-h1d00b33_2.tar.bz2#005ddb14b8f876ed6a85b76dfc9892db
 https://conda.anaconda.org/conda-forge/win-64/libprotobuf-3.13.0.1-h200bbdf_0.tar.bz2#d9b0f62ba8b0355256a3e741f906ce68
 https://conda.anaconda.org/conda-forge/win-64/libssh2-1.9.0-hb06d900_5.tar.bz2#d98a41c806a42bffd8b05a2e6f1132f1
@@ -142,7 +142,7 @@ https://conda.anaconda.org/conda-forge/win-64/mistune-0.8.4-py37hcc03f2d_1002.ta
 https://conda.anaconda.org/conda-forge/win-64/mkl-service-2.3.0-py37h4ab8f01_2.tar.bz2#6854d59d602dc567e04cb1986b58fd8a
 https://conda.anaconda.org/conda-forge/win-64/msgpack-python-1.0.2-py37h8c56517_0.tar.bz2#138639864cc4c59a6912b0094ae534c0
 https://conda.anaconda.org/conda-forge/win-64/numpy-1.19.4-py37hd20adf4_1.tar.bz2#8e6212fc58b8b1688e682de83f17312e
-https://conda.anaconda.org/conda-forge/win-64/openjpeg-2.3.1-h48faf41_3.tar.bz2#b5d0bf11d2730fd7937865e9d077b7b2
+https://conda.anaconda.org/conda-forge/win-64/openjpeg-2.4.0-h48faf41_0.tar.bz2#b0538426e700affa288feef6069be0c7
 https://conda.anaconda.org/conda-forge/noarch/packaging-20.8-pyhd3deb0d_0.tar.bz2#1e483acb0f72b1611b50942458720169
 https://conda.anaconda.org/conda-forge/noarch/partd-1.1.0-py_0.tar.bz2#4afbf2cdf4e6ad279080d3adb5cefaae
 https://conda.anaconda.org/conda-forge/win-64/pillow-8.0.1-py37hdec93a9_0.tar.bz2#6640cae59933e19a2296de7930db696d
@@ -172,7 +172,7 @@ https://conda.anaconda.org/conda-forge/noarch/dask-core-2020.12.0-pyhd8ed1ab_0.t
 https://conda.anaconda.org/conda-forge/win-64/edt-2.0.2-py37h8c56517_0.tar.bz2#e4ef4e7ecb6bb62964b52e14767b2e50
 https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.11-py_0.tar.bz2#4b723fdb7778db332faa8f2613fe6bf3
 https://conda.anaconda.org/conda-forge/win-64/h5py-3.1.0-nompi_py37h19fda09_100.tar.bz2#169697f426014c94069c5e422a8ad30b
-https://conda.anaconda.org/conda-forge/win-64/imagecodecs-2020.12.24-py37hc968386_0.tar.bz2#ea05654d3c82b5933f60c3641ef0138c
+https://conda.anaconda.org/conda-forge/win-64/imagecodecs-2020.12.24-py37h1890f79_1.tar.bz2#08a2a01986e6ce9a394730424c4c73fe
 https://conda.anaconda.org/conda-forge/noarch/imageio-2.9.0-py_0.tar.bz2#62ad9e579278e777d4abaa8c9312b6a7
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.3.0-hd8ed1ab_2.tar.bz2#936c79b1b03cec81f74fb88f4fb4caa8
 https://conda.anaconda.org/conda-forge/win-64/jupyter_core-4.7.0-py37h03978a9_0.tar.bz2#307627860dbe6ee5654091e9180cb604
