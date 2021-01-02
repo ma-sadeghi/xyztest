@@ -103,7 +103,7 @@ https://conda.anaconda.org/conda-forge/noarch/iniconfig-1.1.1-pyh9f0ad1d_0.tar.b
 https://conda.anaconda.org/conda-forge/noarch/ipython_genutils-0.2.0-py_1.tar.bz2#5071c982548b3a20caf70462f04f5287
 https://conda.anaconda.org/conda-forge/noarch/jupyterlab_widgets-1.0.0-pyhd8ed1ab_1.tar.bz2#f8da92114c8fbe1d951b0efaf54dd14b
 https://conda.anaconda.org/conda-forge/osx-64/lcms2-2.11-h11f7e16_1.tar.bz2#e51153c3a4a2455f2466ef4e5496c34d
-https://conda.anaconda.org/conda-forge/osx-64/libblas-3.9.0-4_openblas.tar.bz2#7c1fb5b2cd863b4b7fe1ebe5c43ca798
+https://conda.anaconda.org/conda-forge/osx-64/libblas-3.9.0-5_openblas.tar.bz2#42419c1fe5e4ca3d5c9bea75058d5dd2
 https://conda.anaconda.org/conda-forge/noarch/locket-0.2.0-py_2.tar.bz2#709e8671651c7ec3d1ad07800339ff1d
 https://conda.anaconda.org/conda-forge/noarch/more-itertools-8.6.0-pyhd8ed1ab_0.tar.bz2#980af7a97980ad4cc867b3c1fad782e7
 https://conda.anaconda.org/conda-forge/noarch/mpmath-1.1.0-py_0.tar.bz2#710eeb108dbbbb96d38f9cde359f6a94
@@ -157,8 +157,8 @@ https://conda.anaconda.org/conda-forge/noarch/hyperlink-20.0.1-pyh9f0ad1d_0.tar.
 https://conda.anaconda.org/conda-forge/osx-64/importlib-metadata-3.3.0-py38h50d1736_2.tar.bz2#14fdbcc12a38d7f89d67062debdbb357
 https://conda.anaconda.org/conda-forge/osx-64/jedi-0.18.0-py38h50d1736_1.tar.bz2#86a68feb0fd355db672ab0b0ebf02f53
 https://conda.anaconda.org/conda-forge/osx-64/kiwisolver-1.3.1-py38h9250c2b_0.tar.bz2#940e4f32d7fd9127ea9d2ad18a59b792
-https://conda.anaconda.org/conda-forge/osx-64/libcblas-3.9.0-4_openblas.tar.bz2#a94af8e70548dcccf8e9d04f59515fca
-https://conda.anaconda.org/conda-forge/osx-64/liblapack-3.9.0-4_openblas.tar.bz2#4b11ba3c8f2bd3f7c45cfa1b7fa84266
+https://conda.anaconda.org/conda-forge/osx-64/libcblas-3.9.0-5_openblas.tar.bz2#6d8122a6f7dd23aaa1f9bb2ce2dff4fb
+https://conda.anaconda.org/conda-forge/osx-64/liblapack-3.9.0-5_openblas.tar.bz2#3c3695dbf0486d8485a60e916d04566c
 https://conda.anaconda.org/conda-forge/osx-64/libnetcdf-4.7.4-nompi_h9d8a93f_107.tar.bz2#09ef7d30cb89bacb8ed62ca2f87046b6
 https://conda.anaconda.org/conda-forge/osx-64/llvmlite-0.35.0-py38hc583f44_0.tar.bz2#4eb9e056466e57044bff057ebc79b370
 https://conda.anaconda.org/conda-forge/osx-64/markupsafe-1.1.1-py38h94c058a_2.tar.bz2#4fe723b88b05abb9e79b2cd4906fc406
