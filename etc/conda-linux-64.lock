@@ -207,7 +207,7 @@ https://conda.anaconda.org/conda-forge/linux-64/brotlipy-0.7.0-py38h8df0ef7_1001
 https://conda.anaconda.org/conda-forge/linux-64/cryptography-3.3.1-py38h2b97feb_0.tar.bz2#f6679e58fc4d98fb7b57f479beded033
 https://conda.anaconda.org/conda-forge/noarch/dask-core-2020.12.0-pyhd8ed1ab_0.tar.bz2#d8092d6899074d4303ec541eff2946d4
 https://conda.anaconda.org/conda-forge/linux-64/edt-2.0.2-py38h82cb98a_0.tar.bz2#3e764958b2e76f58254b3982614f5785
-https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.11-py_0.tar.bz2#4b723fdb7778db332faa8f2613fe6bf3
+https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.12-pyhd8ed1ab_0.tar.bz2#aa5f99bb5093ca53b133805192e04330
 https://conda.anaconda.org/conda-forge/linux-64/h5py-3.1.0-nompi_py38hafa665b_100.tar.bz2#550f5817655c72e184df36588bb32e64
 https://conda.anaconda.org/conda-forge/linux-64/imagecodecs-2020.12.24-py38hc09af0b_1.tar.bz2#58d5c99757ef74ca5999ddd92f6a5aaa
 https://conda.anaconda.org/conda-forge/noarch/imageio-2.9.0-py_0.tar.bz2#62ad9e579278e777d4abaa8c9312b6a7
@@ -257,7 +257,7 @@ https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.2-pyhd8ed1ab_0.tar.bz
 https://conda.anaconda.org/conda-forge/noarch/wcwidth-0.2.5-pyh9f0ad1d_2.tar.bz2#5266fcd697043c59621fda522b3d78ee
 https://conda.anaconda.org/conda-forge/noarch/dask-2020.12.0-pyhd8ed1ab_0.tar.bz2#b10d9c6984a9aebdbd26a311b3faf906
 https://conda.anaconda.org/conda-forge/noarch/nbclient-0.5.1-py_0.tar.bz2#4efba375c50e6668cb5778e36d1f3a7e
-https://conda.anaconda.org/conda-forge/noarch/prompt-toolkit-3.0.8-pyha770c72_0.tar.bz2#e4df54860ae814be2dba503c97748173
+https://conda.anaconda.org/conda-forge/noarch/prompt-toolkit-3.0.9-pyha770c72_0.tar.bz2#f74549b8f810e522f345f69f54d1e3f1
 https://conda.anaconda.org/conda-forge/linux-64/pyqt-5.12.3-py38h578d9bd_6.tar.bz2#38d2f345f03d971dac6dbb8557fbe71b
 https://conda.anaconda.org/conda-forge/noarch/requests-2.25.1-pyhd3deb0d_0.tar.bz2#ae687aba31a1c400192a86a2e993ffdc
 https://conda.anaconda.org/conda-forge/linux-64/twisted-20.3.0-py38h1e0a361_1.tar.bz2#f83ca7c671a42515bf6134342ecd2013
@@ -267,7 +267,7 @@ https://conda.anaconda.org/conda-forge/linux-64/matplotlib-3.3.3-py38h578d9bd_0.
 https://conda.anaconda.org/conda-forge/linux-64/nbconvert-6.0.7-py38h578d9bd_3.tar.bz2#7d0922152b769b5489407f90e84562a6
 https://conda.anaconda.org/conda-forge/linux-64/paraview-5.9.0rc2-py38ha14a0f5_1.tar.bz2#0dc83565a9dc519adb36f5febca196ef
 https://conda.anaconda.org/conda-forge/noarch/pooch-1.3.0-pyhd8ed1ab_0.tar.bz2#7041d42601fe3de878565ca84c952237
-https://conda.anaconda.org/conda-forge/noarch/prompt_toolkit-3.0.8-hd8ed1ab_0.tar.bz2#adbf1430c1b3c59d7d8154fd71fc5fec
+https://conda.anaconda.org/conda-forge/noarch/prompt_toolkit-3.0.9-hd8ed1ab_0.tar.bz2#4c777053489497358fb4d9a525a2b701
 https://conda.anaconda.org/conda-forge/linux-64/ipykernel-5.4.2-py38h81c977d_0.tar.bz2#86caeba8b70125be885dcab6047c7490
 https://conda.anaconda.org/conda-forge/linux-64/scikit-image-0.18.1-py38h51da96c_0.tar.bz2#b744b5ff5b3162802274e6d04d8c9047
 https://conda.anaconda.org/conda-forge/noarch/jupyter_console-6.2.0-py_0.tar.bz2#cb063fba0917fab041217d5a4a3adca0
