@@ -25,7 +25,7 @@ https://conda.anaconda.org/conda-forge/win-64/jsoncpp-1.8.4-h1ad3211_1002.tar.bz
 https://conda.anaconda.org/conda-forge/win-64/jxrlib-1.1-h8ffe710_2.tar.bz2#69f82948e102dc14928619140c29468d
 https://conda.anaconda.org/conda-forge/win-64/lerc-2.2.1-h0e60522_0.tar.bz2#5ea14f204e4caaea47598f719adbf80b
 https://conda.anaconda.org/conda-forge/win-64/libaec-1.0.4-h39d44d4_1.tar.bz2#6a35bd17a3db8f3a12a2a30ef0dc60d4
-https://conda.anaconda.org/conda-forge/win-64/libblas-3.9.0-6_mkl.tar.bz2#8bfbbc2cf4215230c702fe24d14deb46
+https://conda.anaconda.org/conda-forge/win-64/libblas-3.9.0-7_mkl.tar.bz2#d99b543ef1fd8514cb04c9a88307f979
 https://conda.anaconda.org/conda-forge/win-64/libclang-11.0.0-default_h5c34c98_2.tar.bz2#b2d6e036f163281953068cefac6b14f6
 https://conda.anaconda.org/conda-forge/win-64/libdeflate-1.7-h8ffe710_4.tar.bz2#27f4109e6a95fb42e85a3cf94b12227f
 https://conda.anaconda.org/conda-forge/win-64/libiconv-1.16-he774522_0.tar.bz2#bdfeadc9348e4d9fbe4821e81bf8f221
@@ -46,8 +46,8 @@ https://conda.anaconda.org/conda-forge/win-64/zfp-0.5.5-h0e60522_4.tar.bz2#65f2b
 https://conda.anaconda.org/conda-forge/win-64/zlib-1.2.11-h62dcd97_1010.tar.bz2#a4cdf389c5f73e60a0ca121ff77c22a9
 https://conda.anaconda.org/conda-forge/win-64/hdf4-4.2.13-h0e5069d_1004.tar.bz2#560b7afe9baf32865dbf51b775e79b4b
 https://conda.anaconda.org/conda-forge/win-64/krb5-1.17.2-hbae68bd_0.tar.bz2#36781bd85367e21cda881c9a5212ea9c
-https://conda.anaconda.org/conda-forge/win-64/libcblas-3.9.0-6_mkl.tar.bz2#9dffa322e8c7f67a6ac33c29c5ee6167
-https://conda.anaconda.org/conda-forge/win-64/liblapack-3.9.0-6_mkl.tar.bz2#8f37c98b2e28d4f6c90db425c3b4c7e8
+https://conda.anaconda.org/conda-forge/win-64/libcblas-3.9.0-7_mkl.tar.bz2#a64a0948a3b4c6a26749a394d29d9570
+https://conda.anaconda.org/conda-forge/win-64/liblapack-3.9.0-7_mkl.tar.bz2#765d4675296378fb45c01b9b2dbcb8a5
 https://conda.anaconda.org/conda-forge/win-64/libpng-1.6.37-h1d00b33_2.tar.bz2#005ddb14b8f876ed6a85b76dfc9892db
 https://conda.anaconda.org/conda-forge/win-64/libprotobuf-3.13.0.1-h200bbdf_0.tar.bz2#d9b0f62ba8b0355256a3e741f906ce68
 https://conda.anaconda.org/conda-forge/win-64/libssh2-1.9.0-hb06d900_5.tar.bz2#d98a41c806a42bffd8b05a2e6f1132f1
