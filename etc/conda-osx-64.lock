@@ -162,7 +162,7 @@ https://conda.anaconda.org/conda-forge/osx-64/liblapack-3.9.0-7_openblas.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libnetcdf-4.7.4-nompi_h9d8a93f_107.tar.bz2#09ef7d30cb89bacb8ed62ca2f87046b6
 https://conda.anaconda.org/conda-forge/osx-64/llvmlite-0.35.0-py38hc583f44_1.tar.bz2#1079df478db33f9eaabca8d3ec7c5f54
 https://conda.anaconda.org/conda-forge/osx-64/markupsafe-1.1.1-py38h94c058a_2.tar.bz2#4fe723b88b05abb9e79b2cd4906fc406
-https://conda.anaconda.org/conda-forge/osx-64/mistune-0.8.4-py38h7e3306e_1002.tar.bz2#808c161f7b4a8b62699d9d03f86e95ec
+https://conda.anaconda.org/conda-forge/osx-64/mistune-0.8.4-py38h5406a74_1003.tar.bz2#a15cfd99b648dbb53db4ab2347ba80e8
 https://conda.anaconda.org/conda-forge/osx-64/mkl-service-2.3.0-py38h4d0b108_2.tar.bz2#25371d5d0efb9fef7c9964edae4b603a
 https://conda.anaconda.org/conda-forge/osx-64/msgpack-python-1.0.2-py38hd9c93a9_0.tar.bz2#e9fce266d5d56cff1d32f31a3fca77ff
 https://conda.anaconda.org/conda-forge/noarch/packaging-20.8-pyhd3deb0d_0.tar.bz2#1e483acb0f72b1611b50942458720169
@@ -209,7 +209,7 @@ https://conda.anaconda.org/conda-forge/noarch/jupyter_client-6.1.7-py_0.tar.bz2#
 https://conda.anaconda.org/conda-forge/osx-64/matplotlib-base-3.3.3-py38h9bfd75d_0.tar.bz2#0d492491927a57b0a0e5b3fb6f1cd411
 https://conda.anaconda.org/conda-forge/noarch/networkx-2.5-py_0.tar.bz2#d836ad8453c22192357707026ca21653
 https://conda.anaconda.org/conda-forge/osx-64/numba-0.52.0-py38he9f00de_0.tar.bz2#e99164f9d7d6890ee81433699f08eec7
-https://conda.anaconda.org/conda-forge/osx-64/numpy-stl-2.13.0-py38hfb243c8_0.tar.bz2#5c182485fe50834ce4e9994df1276f77
+https://conda.anaconda.org/conda-forge/osx-64/numpy-stl-2.13.1-py38hc7193ba_0.tar.bz2#f20757f0852d6106cdbea04f50f8ffce
 https://conda.anaconda.org/conda-forge/osx-64/pandas-1.2.0-py38he9f00de_0.tar.bz2#48a8880a19f6ef51582bff5738bef6b6
 https://conda.anaconda.org/conda-forge/noarch/pip-20.3.3-pyhd8ed1ab_0.tar.bz2#c7e5c449e502567a995e4bd09c538faf
 https://conda.anaconda.org/conda-forge/noarch/pyevtk-1.1.2-pyh24bf2e0_0.tar.bz2#b3112438927aac2bdd7123b5cc869f0d

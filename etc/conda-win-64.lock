@@ -138,7 +138,7 @@ https://conda.anaconda.org/conda-forge/win-64/kiwisolver-1.3.1-py37h8c56517_1.ta
 https://conda.anaconda.org/conda-forge/win-64/lcms2-2.11-h6a326e1_1.tar.bz2#9abb3f218955d87c35246add5e256d15
 https://conda.anaconda.org/conda-forge/win-64/llvmlite-0.35.0-py37habb0c8c_1.tar.bz2#99ea47d5a5e1f0f43bb4641d5468d2b3
 https://conda.anaconda.org/conda-forge/win-64/markupsafe-1.1.1-py37h0013d47_2.tar.bz2#64d8ab6d9e0694854e56ac2ae5171c78
-https://conda.anaconda.org/conda-forge/win-64/mistune-0.8.4-py37hcc03f2d_1002.tar.bz2#68f4f038551b4f6119361d43994b7531
+https://conda.anaconda.org/conda-forge/win-64/mistune-0.8.4-py37hcc03f2d_1003.tar.bz2#ecca7e30da66725c27800307347c85fa
 https://conda.anaconda.org/conda-forge/win-64/mkl-service-2.3.0-py37h4ab8f01_2.tar.bz2#6854d59d602dc567e04cb1986b58fd8a
 https://conda.anaconda.org/conda-forge/win-64/msgpack-python-1.0.2-py37h8c56517_0.tar.bz2#138639864cc4c59a6912b0094ae534c0
 https://conda.anaconda.org/conda-forge/win-64/numpy-1.19.5-py37hd20adf4_0.tar.bz2#beae53096870e01c8a993d85d791c9d3
@@ -177,7 +177,7 @@ https://conda.anaconda.org/conda-forge/noarch/imageio-2.9.0-py_0.tar.bz2#62ad9e5
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.3.0-hd8ed1ab_2.tar.bz2#936c79b1b03cec81f74fb88f4fb4caa8
 https://conda.anaconda.org/conda-forge/win-64/jupyter_core-4.7.0-py37h03978a9_0.tar.bz2#307627860dbe6ee5654091e9180cb604
 https://conda.anaconda.org/conda-forge/win-64/libnetcdf-4.7.4-nompi_h3a9aa94_107.tar.bz2#bdb113a8a711c5bc86e6b18b6b852c8f
-https://conda.anaconda.org/conda-forge/win-64/numpy-stl-2.13.0-py37hda49f71_0.tar.bz2#d0195f8748392e8c0bee9258c57789a1
+https://conda.anaconda.org/conda-forge/win-64/numpy-stl-2.13.1-py37hda49f71_0.tar.bz2#d3d75ad64f35a4671d18799de9673b72
 https://conda.anaconda.org/conda-forge/win-64/pandas-1.2.0-py37h08fd248_0.tar.bz2#fbf99a026a781bb9ac042c32abebe47c
 https://conda.anaconda.org/conda-forge/noarch/pyevtk-1.1.2-pyh24bf2e0_0.tar.bz2#b3112438927aac2bdd7123b5cc869f0d
 https://conda.anaconda.org/conda-forge/win-64/pyqt-impl-5.12.3-py37hf2a7229_6.tar.bz2#34cbbd6bf6a37aad836c3b3f57e2d825
