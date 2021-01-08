@@ -220,7 +220,7 @@ https://conda.anaconda.org/conda-forge/noarch/wcwidth-0.2.5-pyh9f0ad1d_2.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/dask-2020.12.0-pyhd8ed1ab_0.tar.bz2#b10d9c6984a9aebdbd26a311b3faf906
 https://conda.anaconda.org/conda-forge/win-64/matplotlib-3.3.3-py37h03978a9_0.tar.bz2#379c78c7fa741e15529189274b657cd0
 https://conda.anaconda.org/conda-forge/noarch/nbclient-0.5.1-py_0.tar.bz2#4efba375c50e6668cb5778e36d1f3a7e
-https://conda.anaconda.org/conda-forge/noarch/prompt-toolkit-3.0.9-pyha770c72_0.tar.bz2#f74549b8f810e522f345f69f54d1e3f1
+https://conda.anaconda.org/conda-forge/noarch/prompt-toolkit-3.0.10-pyha770c72_0.tar.bz2#8f2f65a9eedc7b3a9c5ea6374c541453
 https://conda.anaconda.org/conda-forge/noarch/pytest-cache-1.0-py_2.tar.bz2#127d734543b5c04b1429dd402123308f
 https://conda.anaconda.org/conda-forge/noarch/pytest-codestyle-2.0.1-py_0.tar.bz2#74135a4626e6c4bed80955c0adc4d8be
 https://conda.anaconda.org/conda-forge/noarch/pytest-cov-2.10.1-pyh9f0ad1d_0.tar.bz2#0d83b4ea58595e9f685c51ba31f63116
@@ -231,7 +231,7 @@ https://conda.anaconda.org/conda-forge/win-64/ipython-7.19.0-py37heaed05f_0.tar.
 https://conda.anaconda.org/conda-forge/win-64/nbconvert-6.0.7-py37h03978a9_3.tar.bz2#1bbb1ea7e63926ea34e33f35d39b8540
 https://conda.anaconda.org/conda-forge/win-64/paraview-5.8.1-py37h1bac1c2_2.tar.bz2#71b8e5ace2ce9bc09475c4d6afc192c5
 https://conda.anaconda.org/conda-forge/noarch/pooch-1.3.0-pyhd8ed1ab_0.tar.bz2#7041d42601fe3de878565ca84c952237
-https://conda.anaconda.org/conda-forge/noarch/prompt_toolkit-3.0.9-hd8ed1ab_0.tar.bz2#4c777053489497358fb4d9a525a2b701
+https://conda.anaconda.org/conda-forge/noarch/prompt_toolkit-3.0.10-hd8ed1ab_0.tar.bz2#7b759d7ab39e14ac787d723772261ce4
 https://conda.anaconda.org/conda-forge/win-64/ipykernel-5.4.2-py37h7b7c402_0.tar.bz2#93c4cc668f269218812331cb811045a2
 https://conda.anaconda.org/conda-forge/win-64/scikit-image-0.18.1-py37h08fd248_0.tar.bz2#b59077a9ef96446018d89cc8fff298e5
 https://conda.anaconda.org/conda-forge/noarch/jupyter_console-6.2.0-py_0.tar.bz2#cb063fba0917fab041217d5a4a3adca0
