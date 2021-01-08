@@ -122,7 +122,7 @@ https://conda.anaconda.org/conda-forge/noarch/zipp-3.4.0-py_0.tar.bz2#0df927d2e4
 https://conda.anaconda.org/conda-forge/noarch/automat-20.2.0-py_0.tar.bz2#0931a4f6f2a28ab4af8316027142a295
 https://conda.anaconda.org/conda-forge/win-64/certifi-2020.12.5-py37h03978a9_1.tar.bz2#1051015def01978c43d8bcbb3f6dc143
 https://conda.anaconda.org/conda-forge/win-64/cffi-1.14.4-py37hd8e9650_1.tar.bz2#0e1f891281599a450244f7e02966e54f
-https://conda.anaconda.org/conda-forge/win-64/chardet-4.0.0-py37h03978a9_0.tar.bz2#4434a7fc1cd4b8760f14609323fd1177
+https://conda.anaconda.org/conda-forge/win-64/chardet-4.0.0-py37h03978a9_1.tar.bz2#566dbd28c78bb886e678e61893d249ba
 https://conda.anaconda.org/conda-forge/win-64/coverage-5.3.1-py37hcc03f2d_0.tar.bz2#045082d0ab803ca36a9215c9cfbd30e7
 https://conda.anaconda.org/conda-forge/win-64/curl-7.71.1-h4b64cdc_8.tar.bz2#267ca21178cb1f36ee871ed1a630322b
 https://conda.anaconda.org/conda-forge/noarch/cycler-0.10.0-py_2.tar.bz2#f6d7c7e6d8f42cbbec7e07a8d879f91c
@@ -131,7 +131,7 @@ https://conda.anaconda.org/conda-forge/noarch/docrep-0.2.7-py_0.tar.bz2#7a8411a5
 https://conda.anaconda.org/conda-forge/noarch/execnet-1.7.1-py_0.tar.bz2#b68d9d4464296840b68761d21487172a
 https://conda.anaconda.org/conda-forge/noarch/gitdb-4.0.5-py_0.tar.bz2#94c135f9db6e89c6a848d3f7ae2cc66b
 https://conda.anaconda.org/conda-forge/win-64/hdf5-1.10.6-nompi_h5268f04_1113.tar.bz2#cc56e88a889ff28e8ea6a6b26701827b
-https://conda.anaconda.org/conda-forge/noarch/hyperlink-20.0.1-pyh9f0ad1d_0.tar.bz2#b25da0ef0e031a4b5904337026b4b289
+https://conda.anaconda.org/conda-forge/noarch/hyperlink-21.0.0-pyhd3deb0d_0.tar.bz2#1303beb57b40f8f4ff6fb1bb23bf0553
 https://conda.anaconda.org/conda-forge/win-64/importlib-metadata-3.3.0-py37h03978a9_2.tar.bz2#2976ae59c56ba590c8144ddeaae213ab
 https://conda.anaconda.org/conda-forge/win-64/jedi-0.18.0-py37h03978a9_1.tar.bz2#3aa7647624ef328ef640701112aeb35b
 https://conda.anaconda.org/conda-forge/win-64/kiwisolver-1.3.1-py37h8c56517_0.tar.bz2#d37fb7ca24c49d0f7c58c486ac51b24c
