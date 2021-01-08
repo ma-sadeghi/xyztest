@@ -12,7 +12,7 @@ https://conda.anaconda.org/conda-forge/win-64/m2w64-libwinpthread-git-5.0.0.4634
 https://conda.anaconda.org/conda-forge/win-64/mkl-2020.4-hb70f87d_311.tar.bz2#eb823c8b41ecf9cd5f08baea1b32e4ef
 https://conda.anaconda.org/conda-forge/win-64/vc-14.2-hb210afc_2.tar.bz2#6852e7ea3601522ab1d4fa60fec8c4fe
 https://conda.anaconda.org/conda-forge/win-64/blosc-1.21.0-h0e60522_0.tar.bz2#19b82b554c46598cc5cc01a58f30f547
-https://conda.anaconda.org/conda-forge/win-64/brotli-1.0.9-ha925a31_3.tar.bz2#5ff6aa4432d190430fc9a60d6360df86
+https://conda.anaconda.org/conda-forge/win-64/brotli-1.0.9-h0e60522_4.tar.bz2#8f75a12ab373e205afd7569fcf556d08
 https://conda.anaconda.org/conda-forge/win-64/bzip2-1.0.8-h8ffe710_4.tar.bz2#7c03c66026944073040cb19a4f3ec3c9
 https://conda.anaconda.org/conda-forge/win-64/charls-2.1.0-h39d44d4_2.tar.bz2#89dc10185a0c2532bf7f1563d737aba3
 https://conda.anaconda.org/conda-forge/win-64/double-conversion-3.1.5-h6538335_2.tar.bz2#af024ffd7d7d6c6877bce9efd3af2bf7
@@ -153,7 +153,7 @@ https://conda.anaconda.org/conda-forge/win-64/pyreadline-2.1-py37hc8dfbb8_1002.t
 https://conda.anaconda.org/conda-forge/win-64/pyrsistent-0.17.3-py37hcc03f2d_1.tar.bz2#78c0e33935aae482c373062e3964af28
 https://conda.anaconda.org/conda-forge/noarch/python-dateutil-2.8.1-py_0.tar.bz2#0d0150ed9c2d25817f5324108d3f7571
 https://conda.anaconda.org/conda-forge/noarch/python-utils-2.4.0-py_0.tar.bz2#ecbb1d56686f4d2064b8851f7ef9a6e6
-https://conda.anaconda.org/conda-forge/win-64/pywin32-228-py37h4ab8f01_0.tar.bz2#9a72f998a430c17746e6f49bb71baf64
+https://conda.anaconda.org/conda-forge/win-64/pywin32-228-py37hcc03f2d_1.tar.bz2#4a8793bbecf4142b4a027b0dbd14a370
 https://conda.anaconda.org/conda-forge/win-64/pywinpty-0.5.7-py37hc8dfbb8_1.tar.bz2#444e46826f687355650f235b64e6a9a4
 https://conda.anaconda.org/conda-forge/win-64/pyyaml-5.3.1-py37h0013d47_1.tar.bz2#3f8b893c8d008d13162339b7f8a5fa46
 https://conda.anaconda.org/conda-forge/win-64/pyzmq-20.0.0-py37h0d95fc2_1.tar.bz2#f6b60a7a50b543dd00703c02eef5a348
