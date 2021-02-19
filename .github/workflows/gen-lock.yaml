@@ -2,7 +2,7 @@ name: 🏃 Generate .lock files
 
 on:
   schedule:
-    - cron:  '*/1 * * * *'
+    - cron:  '*/1 * * * 1'
 
 jobs:
   build:
