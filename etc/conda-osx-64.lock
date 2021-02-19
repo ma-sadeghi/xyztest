@@ -15,7 +15,7 @@ https://conda.anaconda.org/conda-forge/osx-64/libogg-1.3.4-h35c211d_1.tar.bz2#a7
 https://conda.anaconda.org/conda-forge/osx-64/libsodium-1.0.18-hbcb3906_1.tar.bz2#24632c09ed931af617fe6d5292919cab
 https://conda.anaconda.org/conda-forge/osx-64/libwebp-base-1.2.0-hbcf498f_0.tar.bz2#1405fc14579e59a44962ad6317a06f23
 https://conda.anaconda.org/conda-forge/osx-64/llvm-openmp-11.0.1-h7c73e74_0.tar.bz2#86683a2ccd280574c0af1efb95b20aec
-https://conda.anaconda.org/conda-forge/osx-64/mysql-common-8.0.22-h694c41f_3.tar.bz2#fa5ad5576f156df46ea4709069fa1728
+https://conda.anaconda.org/conda-forge/osx-64/mysql-common-8.0.23-h694c41f_0.tar.bz2#a93c6a0e2ed432865e962ba65afe3edd
 https://conda.anaconda.org/conda-forge/osx-64/ncurses-6.2-h2e338ed_4.tar.bz2#9cef1910395d1543527583e73dba30f1
 https://conda.anaconda.org/conda-forge/osx-64/pandoc-2.11.4-h35c211d_0.tar.bz2#7d3282f19abe9745707987104954bbcb
 https://conda.anaconda.org/conda-forge/osx-64/xz-5.2.5-haf1e3a3_1.tar.bz2#41116deb499e9bc58048c297d6403ce6
@@ -70,10 +70,10 @@ https://conda.anaconda.org/conda-forge/osx-64/zstd-1.4.8-hf387650_1.tar.bz2#c17f
 https://conda.anaconda.org/conda-forge/osx-64/libcurl-7.71.1-h9bf37e3_8.tar.bz2#1a136204085b4c620fe2ed74fb1112bf
 https://conda.anaconda.org/conda-forge/osx-64/libglib-2.66.7-h56565ab_0.tar.bz2#c700cd45dfaf7b370f5f6c761e97c330
 https://conda.anaconda.org/conda-forge/osx-64/libopenblas-0.3.12-openmp_h54245bb_1.tar.bz2#ecaffce11312c27c18ad35e65095fecc
-https://conda.anaconda.org/conda-forge/osx-64/libpq-12.3-h7049927_3.tar.bz2#0d81d4294d3afd9b7269821e71d0fd0c
+https://conda.anaconda.org/conda-forge/osx-64/libpq-13.1-haeb8b24_1.tar.bz2#d922bea1cda34bb9f39641a8cbb605da
 https://conda.anaconda.org/conda-forge/osx-64/libtiff-4.2.0-h355d032_0.tar.bz2#ad3cbf0f77b9f89df082eef584d9009a
 https://conda.anaconda.org/conda-forge/osx-64/mpc-1.1.0-ha57cd0f_1009.tar.bz2#e97438cea7c25b9906edf9525f580674
-https://conda.anaconda.org/conda-forge/osx-64/mysql-libs-8.0.22-h70aab77_3.tar.bz2#9d01eed1cfe5b8922180aeb3803c87c0
+https://conda.anaconda.org/conda-forge/osx-64/mysql-libs-8.0.23-hbeb7981_0.tar.bz2#f419fb0d25ffe673578dafe9b8917558
 https://conda.anaconda.org/conda-forge/osx-64/nss-3.47-hc0980d9_0.tar.bz2#c4a8c66c0125d86fbde82cf965212917
 https://conda.anaconda.org/conda-forge/osx-64/python-3.8.6-h624753d_5_cpython.tar.bz2#3e977b3e50ac239250b2a9e0e79e6360
 https://conda.anaconda.org/conda-forge/noarch/apipkg-1.5-py_0.tar.bz2#4e79696efff4eae6cbcbeddbb5bbb5ee
@@ -123,7 +123,7 @@ https://conda.anaconda.org/conda-forge/noarch/pyhamcrest-2.0.2-py_0.tar.bz2#008b
 https://conda.anaconda.org/conda-forge/noarch/pyparsing-2.4.7-pyh9f0ad1d_0.tar.bz2#626c4f20d5bf06dcec9cf2eaa31725c7
 https://conda.anaconda.org/conda-forge/osx-64/python_abi-3.8-1_cp38.tar.bz2#5fe7757fd743e1c2d14d6170d4f53365
 https://conda.anaconda.org/conda-forge/noarch/pytz-2021.1-pyhd8ed1ab_0.tar.bz2#3af2e9424d5eb0063824a3f9b850d411
-https://conda.anaconda.org/conda-forge/osx-64/qt-5.12.9-h126340a_2.tar.bz2#17d0e051f9f7cb5aea57ad637238d271
+https://conda.anaconda.org/conda-forge/osx-64/qt-5.12.9-h126340a_4.tar.bz2#3fd8d112f817bc29a2ff8f508b815845
 https://conda.anaconda.org/conda-forge/noarch/qtpy-1.9.0-py_0.tar.bz2#ab75b0ea90d2621e1924b824e2f395ee
 https://conda.anaconda.org/conda-forge/noarch/send2trash-1.5.0-py_0.tar.bz2#c3779037a635e1150f1c53c28b875949
 https://conda.anaconda.org/conda-forge/noarch/six-1.15.0-pyh9f0ad1d_0.tar.bz2#1eec421f0f1f39e579e44e4a5ce646a2
