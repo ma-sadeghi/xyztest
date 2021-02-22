@@ -4,7 +4,7 @@ from distutils.util import convert_path
 
 about = {}
 
-ver_path = convert_path('xyztest/__init__.py')
+ver_path = convert_path('xyztest/__version__.py')
 with open(ver_path) as f:
     for line in f:
         if line.startswith('__version__'):
