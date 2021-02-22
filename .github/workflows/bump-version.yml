@@ -24,6 +24,7 @@ jobs:
       run: |
         echo "TAG=$(git describe --tags `git rev-list --tags --max-count=1`)" >> $GITHUB_ENV
         echo "VERSION=$(python -c "import xyztest; print(xyztest.__version__)")" >> $GITHUB_ENV
+        echo ${{ github.event.head_commit.message }}
 
     - name: Install dependencies
       run: |
