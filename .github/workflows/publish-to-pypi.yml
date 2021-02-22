@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        ref: release  # the production branch name (for proper version #)
+        ref: master  # the production branch name (for proper version #)
 
     - name: Set up Python
       uses: actions/setup-python@v2
