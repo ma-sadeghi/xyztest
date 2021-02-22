@@ -28,22 +28,22 @@ jobs:
     - name: Install dependencies
       run: |
         pip install bump2version
-        echo $VER $TAG
+        echo $VERSION $TAG
 
     - name: Bump version (patch)
       if: contains(github.event.head_commit.message, '#patch')
       run: |
-        bump2version --current-version $VER patch xyztest/__init__.py
+        bump2version --current-version $VERSION patch xyztest/__init__.py
 
     - name: Bump version (minor)
       if: contains(github.event.head_commit.message, '#minor')
       run: |
-        bump2version --current-version $VER minor xyztest/__init__.py
+        bump2version --current-version $VERSION minor xyztest/__init__.py
 
     - name: Bump version (major)
       if: contains(github.event.head_commit.message, '#major')
       run: |
-        bump2version --current-version $VER major xyztest/__init__.py
+        bump2version --current-version $VERSION major xyztest/__init__.py
 
     - name: Commit files
       if:
