@@ -24,6 +24,7 @@ jobs:
           mkdir -p ~/conda_pkgs_dir
           echo "CONDA_PKGS_DIRS=$HOME/conda_pkgs_dir" >> $GITHUB_ENV
           echo "${{ github.event.head_commit.message }}"
+          echo "Hello world!"
 
       - name: Cache conda
         uses: actions/cache@v1
