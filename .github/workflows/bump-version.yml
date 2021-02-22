@@ -28,7 +28,6 @@ jobs:
         git config core.filemode false
         chmod +x .github/workflows/utils.sh
         echo "VERSION_FILE=xyztest/__version__.py" >> $GITHUB_ENV
-        echo "SETUP_CFG_FILE=setup.cfg" >> $GITHUB_ENV
         echo "${{ github.event.head_commit.message }}"
 
     - name: Install dependencies
@@ -74,8 +73,8 @@ jobs:
 
         # commit the version bump back to the dev branch as well
         git checkout dev
-        git checkout master -- $SETUP_CFG_FILE $VERSION_FILE
-        git add $SETUP_CFG_FILE $VERSION_FILE
+        git checkout master -- $VERSION_FILE
+        git add $VERSION_FILE
         # the first statement in the next line is to catch commit nothing error
         git diff-index --quiet HEAD || git commit -m "Bump version number"
         git push "${remote_repo}" dev
