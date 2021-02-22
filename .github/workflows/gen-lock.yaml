@@ -1,4 +1,4 @@
-name: 🏃 Generate .lock files
+name: Generate .lock files
 
 on:
   schedule:
