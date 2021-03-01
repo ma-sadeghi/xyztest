@@ -55,7 +55,7 @@ https://conda.anaconda.org/conda-forge/win-64/libtheora-1.1.1-h62dcd97_1004.tar.
 https://conda.anaconda.org/conda-forge/win-64/libxml2-2.9.10-hf5bbc77_3.tar.bz2#4d2f9377b960b9f1425e91e13a30126c
 https://conda.anaconda.org/conda-forge/win-64/m2w64-gcc-libgfortran-5.3.0-6.tar.bz2#066552ac6b907ec6d72c0ddab29050dc
 https://conda.anaconda.org/conda-forge/win-64/python-3.7.10-h7840368_100_cpython.tar.bz2#d1cd351219ab70e421897281ab05fecd
-https://conda.anaconda.org/conda-forge/win-64/zeromq-4.3.3-h0e60522_3.tar.bz2#3f14354fbaa50a70595d6d1a54292996
+https://conda.anaconda.org/conda-forge/win-64/zeromq-4.3.4-h0e60522_0.tar.bz2#e9004ac5d24937850e9edff978c7e515
 https://conda.anaconda.org/conda-forge/win-64/zstd-1.4.8-h498f385_0.tar.bz2#7d4569aeb1f9c95d4e497fbdbd149c4b
 https://conda.anaconda.org/conda-forge/noarch/apipkg-1.5-py_0.tar.bz2#4e79696efff4eae6cbcbeddbb5bbb5ee
 https://conda.anaconda.org/conda-forge/noarch/appdirs-1.4.4-pyh9f0ad1d_0.tar.bz2#5f095bc6454094e96f146491fd03633b
@@ -155,7 +155,7 @@ https://conda.anaconda.org/conda-forge/noarch/python-utils-2.5.5-pyh44b312d_0.ta
 https://conda.anaconda.org/conda-forge/win-64/pywin32-300-py37hcc03f2d_0.tar.bz2#332665e8d4a64b4901c014bc09e63d64
 https://conda.anaconda.org/conda-forge/win-64/pywinpty-0.5.7-py37hc8dfbb8_1.tar.bz2#444e46826f687355650f235b64e6a9a4
 https://conda.anaconda.org/conda-forge/win-64/pyyaml-5.4.1-py37hcc03f2d_0.tar.bz2#e9ee64dc3e9e47410f46fda92664cfc6
-https://conda.anaconda.org/conda-forge/win-64/pyzmq-22.0.3-py37h0d95fc2_0.tar.bz2#876b8525c53a7fb659f0acb9d526092c
+https://conda.anaconda.org/conda-forge/win-64/pyzmq-22.0.3-py37hcce574b_1.tar.bz2#814ae1e0dcc1139520566fd070b61f94
 https://conda.anaconda.org/conda-forge/win-64/sympy-1.7.1-py37h03978a9_1.tar.bz2#ddb02c391c2b3210249de2d7ad334e99
 https://conda.anaconda.org/conda-forge/noarch/terminaltables-3.1.0-py_0.tar.bz2#4fc8bb7e1f4a025650b8bef923525345
 https://conda.anaconda.org/conda-forge/win-64/tornado-6.1-py37hcc03f2d_1.tar.bz2#20d238a5f4b51be48f0b171628ee873b
