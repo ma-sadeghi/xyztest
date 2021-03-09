@@ -179,7 +179,7 @@ https://conda.anaconda.org/conda-forge/win-64/jupyter_core-4.7.1-py37h03978a9_0.
 https://conda.anaconda.org/conda-forge/win-64/libnetcdf-4.7.4-nompi_h3a9aa94_107.tar.bz2#bdb113a8a711c5bc86e6b18b6b852c8f
 https://conda.anaconda.org/conda-forge/win-64/numpy-stl-2.15.1-py37hda49f71_0.tar.bz2#364da7a099717b24127a3f05f47cfbe3
 https://conda.anaconda.org/conda-forge/win-64/pandas-1.2.3-py37h08fd248_0.tar.bz2#d61841ad90a8e52d1bca5d8dc23d985f
-https://conda.anaconda.org/conda-forge/win-64/pillow-8.1.1-py37h96663a1_0.tar.bz2#9b56909db980e5dceab5a469788cebe2
+https://conda.anaconda.org/conda-forge/win-64/pillow-8.1.2-py37h96663a1_0.tar.bz2#fc07fafd126f585685912924c52ff744
 https://conda.anaconda.org/conda-forge/noarch/pyevtk-1.2.0-pyh050c7b8_0.tar.bz2#d9fc1f22512d856ca0a8c4478d2e3845
 https://conda.anaconda.org/conda-forge/win-64/pyqt-impl-5.12.3-py37hf2a7229_7.tar.bz2#8f962f9f8aace2f9288c7e72414b5fab
 https://conda.anaconda.org/conda-forge/win-64/pysocks-1.7.1-py37h03978a9_3.tar.bz2#57ff67171877b6aa4575b3e9a183b92a
@@ -203,7 +203,7 @@ https://conda.anaconda.org/conda-forge/noarch/pardiso4py-0.2.2-pyh9f0ad1d_0.tar.
 https://conda.anaconda.org/conda-forge/noarch/pip-21.0.1-pyhd8ed1ab_0.tar.bz2#849477e10d78cbc283c78fd53bfbb567
 https://conda.anaconda.org/conda-forge/win-64/pluggy-0.13.1-py37h03978a9_4.tar.bz2#5f4cfa7e8c6b5cb40cf71cb1730e62d4
 https://conda.anaconda.org/conda-forge/win-64/pyamg-4.0.0-py37h9387523_1003.tar.bz2#ffdfe109adaa1e5a23e33ed6db940874
-https://conda.anaconda.org/conda-forge/noarch/pygments-2.8.0-pyhd8ed1ab_0.tar.bz2#226cd14ba0554ca2648fecd11090f473
+https://conda.anaconda.org/conda-forge/noarch/pygments-2.8.1-pyhd8ed1ab_0.tar.bz2#196e0cff141677f430fc06eb0d0ad94d
 https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2#92371c25994d0f5d28a01c1fb75ebf86
 https://conda.anaconda.org/conda-forge/win-64/pyqtchart-5.12-py37hf2a7229_7.tar.bz2#93e0129a5ae9edd920137f26742fcff3
 https://conda.anaconda.org/conda-forge/win-64/pyqtwebengine-5.12.1-py37hf2a7229_7.tar.bz2#fdf2c3d9ba162f675f19208cfe0799b7

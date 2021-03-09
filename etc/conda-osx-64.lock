@@ -169,7 +169,7 @@ https://conda.anaconda.org/conda-forge/osx-64/msgpack-python-1.0.2-py38hd9c93a9_
 https://conda.anaconda.org/conda-forge/noarch/packaging-20.9-pyh44b312d_0.tar.bz2#be69a38e912054a62dc82cc3c7711a64
 https://conda.anaconda.org/conda-forge/noarch/partd-1.1.0-py_0.tar.bz2#4afbf2cdf4e6ad279080d3adb5cefaae
 https://conda.anaconda.org/conda-forge/noarch/pexpect-4.8.0-pyh9f0ad1d_2.tar.bz2#5909e7b978141dd80d28dbf9de627827
-https://conda.anaconda.org/conda-forge/osx-64/pillow-8.1.1-py38h83525de_0.tar.bz2#c35c221175de3f03917e3c6a8851f48c
+https://conda.anaconda.org/conda-forge/osx-64/pillow-8.1.2-py38h83525de_0.tar.bz2#346f5449b95e15c94ca253b5489b602f
 https://conda.anaconda.org/conda-forge/osx-64/pluggy-0.13.1-py38h50d1736_4.tar.bz2#7f630b9f557dbed72fe4d3de3c0cccf4
 https://conda.anaconda.org/conda-forge/osx-64/psutil-5.8.0-py38h5406a74_1.tar.bz2#ede1fa6897d23711e140d04204c3eece
 https://conda.anaconda.org/conda-forge/noarch/pyasn1-modules-0.2.7-py_0.tar.bz2#ad1e886d09700b2304975335f714bd9c
@@ -213,7 +213,7 @@ https://conda.anaconda.org/conda-forge/osx-64/numpy-stl-2.15.1-py38ha1b04c9_0.ta
 https://conda.anaconda.org/conda-forge/osx-64/pandas-1.2.3-py38h1588c1c_0.tar.bz2#37b9abcafd11b58cf4540d187b10fbce
 https://conda.anaconda.org/conda-forge/noarch/pip-21.0.1-pyhd8ed1ab_0.tar.bz2#849477e10d78cbc283c78fd53bfbb567
 https://conda.anaconda.org/conda-forge/noarch/pyevtk-1.2.0-pyh050c7b8_0.tar.bz2#d9fc1f22512d856ca0a8c4478d2e3845
-https://conda.anaconda.org/conda-forge/noarch/pygments-2.8.0-pyhd8ed1ab_0.tar.bz2#226cd14ba0554ca2648fecd11090f473
+https://conda.anaconda.org/conda-forge/noarch/pygments-2.8.1-pyhd8ed1ab_0.tar.bz2#196e0cff141677f430fc06eb0d0ad94d
 https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2#92371c25994d0f5d28a01c1fb75ebf86
 https://conda.anaconda.org/conda-forge/osx-64/pyqt-impl-5.12.3-py38h721a93c_7.tar.bz2#c76e852791a4509cd4ec14b50db2a459
 https://conda.anaconda.org/conda-forge/noarch/pytest-cache-1.0-py_2.tar.bz2#127d734543b5c04b1429dd402123308f
