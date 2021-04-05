@@ -88,7 +88,7 @@ https://conda.anaconda.org/conda-forge/linux-64/libtiff-4.2.0-hdc55705_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libxkbcommon-1.0.3-he3ba5ed_0.tar.bz2#f9dbabc7e01c459ed7a1d1d64b206e9b
 https://conda.anaconda.org/conda-forge/linux-64/mpc-1.1.0-h04dde30_1009.tar.bz2#04a83b86c244fd8fe557a24e50b0028e
 https://conda.anaconda.org/conda-forge/linux-64/mysql-libs-8.0.23-h935591d_1.tar.bz2#fd60f20b38b7194aa91262fdbd3ef134
-https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.35.3-h74cdb3f_0.tar.bz2#5853e26358e932de1c059b449091d9d9
+https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.35.4-h74cdb3f_0.tar.bz2#bc1c6047464060ba82a71448292be9c3
 https://conda.anaconda.org/conda-forge/linux-64/xorg-libx11-1.7.0-h7f98852_0.tar.bz2#0cd07abd75b2fad023161c657524ddbd
 https://conda.anaconda.org/conda-forge/linux-64/fontconfig-2.13.1-hba837de_1004.tar.bz2#bbe61e6ae39440dd101d77bf80ffc2cd
 https://conda.anaconda.org/conda-forge/linux-64/glib-tools-2.68.0-h9c3ff4c_2.tar.bz2#2f2f589461c8adfe1a2cc384c60e0458
@@ -217,7 +217,7 @@ https://conda.anaconda.org/conda-forge/linux-64/jupyter_core-4.7.1-py38h578d9bd_
 https://conda.anaconda.org/conda-forge/linux-64/numpy-stl-2.16.0-py38hb5d20a5_0.tar.bz2#f2fdbf12d61580ab6d9077f17e8442cd
 https://conda.anaconda.org/conda-forge/linux-64/pandas-1.2.3-py38h51da96c_0.tar.bz2#2b1bbcf38f41addc45cef8cada1cdab9
 https://conda.anaconda.org/conda-forge/noarch/pyevtk-1.2.0-pyh050c7b8_0.tar.bz2#d9fc1f22512d856ca0a8c4478d2e3845
-https://conda.anaconda.org/conda-forge/linux-64/pytest-6.2.2-py38h578d9bd_0.tar.bz2#b95e7dad1d21a5a8b8e9adf7b43a68e8
+https://conda.anaconda.org/conda-forge/linux-64/pytest-6.2.3-py38h578d9bd_0.tar.bz2#c371fe315f1a45847a3220514f58cfad
 https://conda.anaconda.org/conda-forge/linux-64/pywavelets-1.1.1-py38h5c078b8_3.tar.bz2#dafeef887e68bd18ec84681747ca0fd5
 https://conda.anaconda.org/conda-forge/linux-64/qt-5.12.9-hda022c4_4.tar.bz2#afebab1f5049d66baaaec67d9ce893f0
 https://conda.anaconda.org/conda-forge/linux-64/scipy-1.6.2-py38h7b17777_0.tar.bz2#e0be90ecf33b94ac3f407f1bf3c76de2

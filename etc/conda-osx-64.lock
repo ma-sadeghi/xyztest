@@ -65,7 +65,7 @@ https://conda.anaconda.org/conda-forge/osx-64/libssh2-1.9.0-h52ee1ee_6.tar.bz2#4
 https://conda.anaconda.org/conda-forge/osx-64/libtheora-1.1.1-haf1e3a3_1004.tar.bz2#577829533fad49b51e7254676ae7f9cd
 https://conda.anaconda.org/conda-forge/osx-64/libxml2-2.9.10-h802ca4f_3.tar.bz2#42435730cf54092342e0c3eb571b511b
 https://conda.anaconda.org/conda-forge/osx-64/mpfr-4.0.2-h72d8aaf_1.tar.bz2#a7b9a26985eadd6675077490a015e61e
-https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.35.3-h44b9ce1_0.tar.bz2#9a3cbdbdf26a14819bbf2b9163986fa2
+https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.35.4-h44b9ce1_0.tar.bz2#8a07c36ce8a003a8213591882314dac6
 https://conda.anaconda.org/conda-forge/osx-64/zstd-1.4.9-h582d3a0_0.tar.bz2#551e04087371339ee63524f2988faa62
 https://conda.anaconda.org/conda-forge/osx-64/libcurl-7.76.0-h8ef9fac_0.tar.bz2#196de557ead286a583e176056a9f5e50
 https://conda.anaconda.org/conda-forge/osx-64/libglib-2.68.0-hd556434_2.tar.bz2#30a9a40acd01ef541e792d5a2647d8a2
@@ -192,7 +192,7 @@ https://conda.anaconda.org/conda-forge/osx-64/dbus-1.13.6-ha13b53f_2.tar.bz2#419
 https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.14-pyhd8ed1ab_0.tar.bz2#4dca4262c5376a85ce02c517dc385041
 https://conda.anaconda.org/conda-forge/osx-64/jupyter_core-4.7.1-py38h50d1736_0.tar.bz2#1253aea385688aebc9941897681c8a2a
 https://conda.anaconda.org/conda-forge/osx-64/numpy-1.20.2-py38had91d27_0.tar.bz2#9a5749fcbc6e2b0220f57491748728b2
-https://conda.anaconda.org/conda-forge/osx-64/pytest-6.2.2-py38h50d1736_0.tar.bz2#799208ffa82e190064bd6d9fcf9d60e4
+https://conda.anaconda.org/conda-forge/osx-64/pytest-6.2.3-py38h50d1736_0.tar.bz2#e7b86c74eb3bebbc7be1743632838481
 https://conda.anaconda.org/conda-forge/osx-64/setuptools-49.6.0-py38h50d1736_3.tar.bz2#af8a81ee7c2c09fc2884c800a044b616
 https://conda.anaconda.org/conda-forge/osx-64/sympy-1.7.1-py38h50d1736_1.tar.bz2#7809ed51c35b6a1b8900d11a8e3d034c
 https://conda.anaconda.org/conda-forge/osx-64/terminado-0.9.4-py38h50d1736_0.tar.bz2#d00253bba516c5a41988e34e60f16b3f
