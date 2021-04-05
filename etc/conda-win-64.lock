@@ -2,7 +2,7 @@
 # env_hash: 03d297b455365e74ba0a553f61c7af8217adbed7d98e85fb78595439dcd75a48
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/win-64/ca-certificates-2020.12.5-h5b45459_0.tar.bz2#f36a2988a9f57cffdc43929ba67a3a2a
-https://conda.anaconda.org/conda-forge/win-64/intel-openmp-2020.3-h57928b3_311.tar.bz2#361a51c98a0cb06415bd3f9d3bbb5778
+https://conda.anaconda.org/conda-forge/win-64/intel-openmp-2021.1.2-h57928b3_265.tar.bz2#c56c9bfaaa9e4bc489b5f82dd548b500
 https://conda.anaconda.org/conda-forge/win-64/msys2-conda-epoch-20160418-1.tar.bz2#b0309b72560df66f71a9d5e34a5efdfa
 https://conda.anaconda.org/conda-forge/win-64/pandoc-2.13-h8ffe710_0.tar.bz2#61005d2dab3dc58a1c99e997a16896bf
 https://conda.anaconda.org/conda-forge/win-64/vs2015_runtime-14.28.29325-h5e1d092_4.tar.bz2#e89bf06003c46c09ee8628eb76aa9520
