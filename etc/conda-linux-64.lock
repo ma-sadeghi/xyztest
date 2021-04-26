@@ -37,7 +37,6 @@ https://conda.anaconda.org/conda-forge/linux-64/libglu-9.0.0-he1b5a44_1001.tar.b
 https://conda.anaconda.org/conda-forge/linux-64/libiconv-1.16-h516909a_0.tar.bz2#5c0f338a513a2943c659ae619fca9211
 https://conda.anaconda.org/conda-forge/linux-64/libogg-1.3.4-h7f98852_1.tar.bz2#6e8cc2173440d77708196c5b93771680
 https://conda.anaconda.org/conda-forge/linux-64/libopenblas-0.3.12-pthreads_h4812303_1.tar.bz2#2c7126a584f05e7bc8885d64dad3d21a
-https://conda.anaconda.org/conda-forge/linux-64/libopus-1.3.1-h7f98852_1.tar.bz2#15345e56d527b330e1cacbdf58676e8f
 https://conda.anaconda.org/conda-forge/linux-64/libsodium-1.0.18-h36c2ea0_1.tar.bz2#c3788462a6fbddafdb413a9f9053e58d
 https://conda.anaconda.org/conda-forge/linux-64/libuuid-2.32.1-h7f98852_1000.tar.bz2#772d69f030955d9646d3d0eaf21d859d
 https://conda.anaconda.org/conda-forge/linux-64/libwebp-base-1.2.0-h7f98852_2.tar.bz2#fb63a035a3b552c88a30d84b89ebf4c4
@@ -96,7 +95,7 @@ https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.35.5-h74cdb3f_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/xorg-libx11-1.7.0-h7f98852_0.tar.bz2#0cd07abd75b2fad023161c657524ddbd
 https://conda.anaconda.org/conda-forge/linux-64/fontconfig-2.13.1-hba837de_1005.tar.bz2#fd3611672eb91bc9d24fd6fb970037eb
 https://conda.anaconda.org/conda-forge/linux-64/glib-tools-2.68.1-h9c3ff4c_0.tar.bz2#b1ecd0fa079de56a1ba8d03063ee39bb
-https://conda.anaconda.org/conda-forge/linux-64/gstreamer-1.18.4-h76c114f_2.tar.bz2#5db765d4974fa89f64c1544eb2a552cb
+https://conda.anaconda.org/conda-forge/linux-64/gstreamer-1.18.4-h76c114f_1.tar.bz2#09aedc68aa60cd9f2b5e24988b474c83
 https://conda.anaconda.org/conda-forge/linux-64/lcms2-2.12-hddcbb42_0.tar.bz2#797117394a4aa588de6d741b06fad80f
 https://conda.anaconda.org/conda-forge/linux-64/libcurl-7.76.1-hc4aaa36_1.tar.bz2#349a288d04af695b639e5f947df3c2d0
 https://conda.anaconda.org/conda-forge/linux-64/libpq-13.2-hfd2b0eb_2.tar.bz2#66cc9cbd324d484c01ea08d98761aeb1
@@ -124,7 +123,7 @@ https://conda.anaconda.org/conda-forge/noarch/flatdict-4.0.1-pyh9f0ad1d_0.tar.bz
 https://conda.anaconda.org/conda-forge/noarch/fsspec-2021.4.0-pyhd8ed1ab_0.tar.bz2#7019316dafd6ef2e0a2fc178486993cd
 https://conda.anaconda.org/conda-forge/linux-64/glew-2.1.0-h9c3ff4c_2.tar.bz2#fb05eb5c47590b247658243d27fc32f1
 https://conda.anaconda.org/conda-forge/linux-64/glib-2.68.1-h9c3ff4c_0.tar.bz2#9fb05e9b0df734f92df7810c7c8975e3
-https://conda.anaconda.org/conda-forge/linux-64/gst-plugins-base-1.18.4-hf529b03_2.tar.bz2#526fadaa13ec264cb919436953bc2766
+https://conda.anaconda.org/conda-forge/linux-64/gst-plugins-base-1.18.4-hf529b03_1.tar.bz2#e05fc6babaf75f641077fa19b5ae456d
 https://conda.anaconda.org/conda-forge/linux-64/hdf5-1.10.6-nompi_h6a2412b_1114.tar.bz2#0a2984b78f51148d7ff6219abe73509e
 https://conda.anaconda.org/conda-forge/noarch/heapdict-1.0.1-py_0.tar.bz2#77242bfb1e74a627fb06319b5a2d3b95
 https://conda.anaconda.org/conda-forge/noarch/idna-2.10-pyh9f0ad1d_0.tar.bz2#f95a12b4f435aae6680fe55ae2eb1b06
@@ -211,7 +210,7 @@ https://conda.anaconda.org/conda-forge/noarch/zict-2.0.0-py_0.tar.bz2#4750152be2
 https://conda.anaconda.org/conda-forge/linux-64/argon2-cffi-20.1.0-py39h3811e60_2.tar.bz2#9e69a6cedbffc71321daf4895b9db5bf
 https://conda.anaconda.org/conda-forge/linux-64/brotlipy-0.7.0-py39h3811e60_1001.tar.bz2#35ad78e61aec955783acfd00f3c6bcde
 https://conda.anaconda.org/conda-forge/linux-64/cryptography-3.4.7-py39hbca0aa6_0.tar.bz2#04e97f7d5c60f75a36b1e4bdf3652ebd
-https://conda.anaconda.org/conda-forge/noarch/dask-core-2021.4.1-pyhd8ed1ab_0.tar.bz2#7b4563cc5528acd2a1b2675a2b69dd19
+https://conda.anaconda.org/conda-forge/noarch/dask-core-2021.4.0-pyhd8ed1ab_0.tar.bz2#6a3cee4ed19dffa70d021526d0f07258
 https://conda.anaconda.org/conda-forge/linux-64/edt-2.1.0-py39h1a9c180_0.tar.bz2#ac11f7660faca92709d619edf1efd68c
 https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.15-pyhd8ed1ab_0.tar.bz2#e39229fa68a46674e21f90904973b7f5
 https://conda.anaconda.org/conda-forge/linux-64/h5py-3.2.1-nompi_py39h98ba4bc_100.tar.bz2#e25db91699a5a23afe6fa7581c3162ae
@@ -231,7 +230,7 @@ https://conda.anaconda.org/conda-forge/linux-64/terminado-0.9.4-py39hf3d152e_0.t
 https://conda.anaconda.org/conda-forge/noarch/transforms3d-0.3.1-py_0.tar.bz2#6da5577349701747d4241472f18a9e76
 https://conda.anaconda.org/conda-forge/noarch/backports.functools_lru_cache-1.6.4-pyhd8ed1ab_0.tar.bz2#c5b3edc62d6309088f4970b3eaaa65a6
 https://conda.anaconda.org/conda-forge/noarch/bleach-3.3.0-pyh44b312d_0.tar.bz2#abf6b76c39358ca36ca706c46f054f2a
-https://conda.anaconda.org/conda-forge/linux-64/distributed-2021.4.1-py39hf3d152e_0.tar.bz2#fcd1c9848ff91a4a9074a8e5d0a9ed3a
+https://conda.anaconda.org/conda-forge/linux-64/distributed-2021.4.0-py39hf3d152e_0.tar.bz2#6d0417891888bd6a7e4e625c8f421bf9
 https://conda.anaconda.org/conda-forge/noarch/jinja2-2.11.3-pyh44b312d_0.tar.bz2#1d4c3605d85a3655b1595e0694138eb6
 https://conda.anaconda.org/conda-forge/noarch/json_tricks-3.15.5-pyhd8ed1ab_0.tar.bz2#92ea408376b5a0b274b5ab636967297a
 https://conda.anaconda.org/conda-forge/noarch/jsonschema-3.2.0-pyhd8ed1ab_3.tar.bz2#66125e28711d8ffc04a207a2b170316d
@@ -259,7 +258,7 @@ https://conda.anaconda.org/conda-forge/linux-64/pyqtwebengine-5.12.1-py39h0fcd23
 https://conda.anaconda.org/conda-forge/noarch/service_identity-18.1.0-py_0.tar.bz2#bea53ad2212fa8f270c427bd40ce1fbd
 https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.4-pyhd8ed1ab_0.tar.bz2#d7b20b328e23d993994ea02077c009c0
 https://conda.anaconda.org/conda-forge/noarch/wcwidth-0.2.5-pyh9f0ad1d_2.tar.bz2#5266fcd697043c59621fda522b3d78ee
-https://conda.anaconda.org/conda-forge/noarch/dask-2021.4.1-pyhd8ed1ab_0.tar.bz2#d954ba6326e7f5279444ea0f1c3dfd46
+https://conda.anaconda.org/conda-forge/noarch/dask-2021.4.0-pyhd8ed1ab_0.tar.bz2#4d0b8fb16770cd96df3aea16ece19ea2
 https://conda.anaconda.org/conda-forge/noarch/nbclient-0.5.3-pyhd8ed1ab_0.tar.bz2#67f12831640fde52fe9be1bbc6b699e7
 https://conda.anaconda.org/conda-forge/noarch/prompt-toolkit-3.0.18-pyha770c72_0.tar.bz2#aa44d0f71016061e83df1126764acdb7
 https://conda.anaconda.org/conda-forge/linux-64/pyqt-5.12.3-py39hf3d152e_7.tar.bz2#08e46ad97d4712558a52ae2ea6a92c8d
