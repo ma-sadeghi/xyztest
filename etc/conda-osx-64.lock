@@ -107,7 +107,7 @@ https://conda.anaconda.org/conda-forge/noarch/jupyterlab_widgets-1.0.0-pyhd8ed1a
 https://conda.anaconda.org/conda-forge/osx-64/lcms2-2.12-h577c468_0.tar.bz2#abce77b852b73670e85e104746b0ea1b
 https://conda.anaconda.org/conda-forge/osx-64/libblas-3.9.0-8_openblas.tar.bz2#054ee8e709d3d9c2678a3c8bda034896
 https://conda.anaconda.org/conda-forge/noarch/locket-0.2.0-py_2.tar.bz2#709e8671651c7ec3d1ad07800339ff1d
-https://conda.anaconda.org/conda-forge/noarch/more-itertools-8.7.0-pyhd8ed1ab_0.tar.bz2#3be1ba5a28d394d78f3d692fb9e5c1c2
+https://conda.anaconda.org/conda-forge/noarch/more-itertools-8.7.0-pyhd8ed1ab_1.tar.bz2#d51aa0bff3e4da989b2ab3a7f3e52dfc
 https://conda.anaconda.org/conda-forge/noarch/mpmath-1.2.1-pyhd8ed1ab_0.tar.bz2#9b06ebbd24f7c60ba5a29117c528514e
 https://conda.anaconda.org/conda-forge/noarch/nest-asyncio-1.5.1-pyhd8ed1ab_0.tar.bz2#47a51a5b8f9cc41004c8d7bd88b62447
 https://conda.anaconda.org/conda-forge/noarch/olefile-0.46-pyh9f0ad1d_1.tar.bz2#0b2e68acc8c78c8cc392b90983481f58
@@ -189,7 +189,7 @@ https://conda.anaconda.org/conda-forge/noarch/zict-2.0.0-py_0.tar.bz2#4750152be2
 https://conda.anaconda.org/conda-forge/osx-64/argon2-cffi-20.1.0-py39hcbf5805_2.tar.bz2#1106a80ffb76cbedbe50ea94f320ba3b
 https://conda.anaconda.org/conda-forge/osx-64/brotlipy-0.7.0-py39hcbf5805_1001.tar.bz2#24ceea6c1d2bd117e13d3830a065f843
 https://conda.anaconda.org/conda-forge/osx-64/cryptography-3.4.7-py39ha2c9959_0.tar.bz2#2c4542d3abca07b2b7263e15c85917db
-https://conda.anaconda.org/conda-forge/noarch/dask-core-2021.4.0-pyhd8ed1ab_0.tar.bz2#6a3cee4ed19dffa70d021526d0f07258
+https://conda.anaconda.org/conda-forge/noarch/dask-core-2021.4.1-pyhd8ed1ab_0.tar.bz2#7b4563cc5528acd2a1b2675a2b69dd19
 https://conda.anaconda.org/conda-forge/osx-64/dbus-1.13.6-ha13b53f_2.tar.bz2#419c24c09b564083e2407afe507e0266
 https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.15-pyhd8ed1ab_0.tar.bz2#e39229fa68a46674e21f90904973b7f5
 https://conda.anaconda.org/conda-forge/osx-64/jupyter_core-4.7.1-py39h6e9494a_0.tar.bz2#a8ffa3668c29198baa6a6d42cce93f81
@@ -213,7 +213,7 @@ https://conda.anaconda.org/conda-forge/noarch/networkx-2.5-py_0.tar.bz2#d836ad84
 https://conda.anaconda.org/conda-forge/osx-64/numba-0.53.1-py39he2616bd_0.tar.bz2#d2d8aaac013747161cc2e9d02bd714df
 https://conda.anaconda.org/conda-forge/osx-64/numpy-stl-2.16.0-py39hc89836e_0.tar.bz2#fd53d5f6e9aa0295c8ccaf3500f26aed
 https://conda.anaconda.org/conda-forge/osx-64/pandas-1.2.4-py39h4d6be9b_0.tar.bz2#98a77b2951a48e783ce8bc90498a1364
-https://conda.anaconda.org/conda-forge/noarch/pip-21.0.1-pyhd8ed1ab_0.tar.bz2#849477e10d78cbc283c78fd53bfbb567
+https://conda.anaconda.org/conda-forge/noarch/pip-21.1-pyhd8ed1ab_0.tar.bz2#5acc8aa0e57f31553f7bf9c22ca4d064
 https://conda.anaconda.org/conda-forge/noarch/pyevtk-1.2.0-pyh050c7b8_0.tar.bz2#d9fc1f22512d856ca0a8c4478d2e3845
 https://conda.anaconda.org/conda-forge/noarch/pygments-2.8.1-pyhd8ed1ab_0.tar.bz2#196e0cff141677f430fc06eb0d0ad94d
 https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2#92371c25994d0f5d28a01c1fb75ebf86
@@ -239,7 +239,7 @@ https://conda.anaconda.org/conda-forge/noarch/service_identity-18.1.0-py_0.tar.b
 https://conda.anaconda.org/conda-forge/noarch/tifffile-2021.4.8-pyhd8ed1ab_0.tar.bz2#aff99c035e8265b23f52955865727579
 https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.4-pyhd8ed1ab_0.tar.bz2#d7b20b328e23d993994ea02077c009c0
 https://conda.anaconda.org/conda-forge/noarch/wcwidth-0.2.5-pyh9f0ad1d_2.tar.bz2#5266fcd697043c59621fda522b3d78ee
-https://conda.anaconda.org/conda-forge/noarch/dask-2021.4.0-pyhd8ed1ab_0.tar.bz2#4d0b8fb16770cd96df3aea16ece19ea2
+https://conda.anaconda.org/conda-forge/noarch/dask-2021.4.1-pyhd8ed1ab_0.tar.bz2#d954ba6326e7f5279444ea0f1c3dfd46
 https://conda.anaconda.org/conda-forge/noarch/nbclient-0.5.3-pyhd8ed1ab_0.tar.bz2#67f12831640fde52fe9be1bbc6b699e7
 https://conda.anaconda.org/conda-forge/noarch/prompt-toolkit-3.0.18-pyha770c72_0.tar.bz2#aa44d0f71016061e83df1126764acdb7
 https://conda.anaconda.org/conda-forge/osx-64/pyqt-5.12.3-py39h6e9494a_7.tar.bz2#2dd0c7db8f759aef879bc81bd08bd838
