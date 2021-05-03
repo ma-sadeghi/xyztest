@@ -71,7 +71,7 @@ https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.35.5-h44b9ce1_0.tar.bz2#2
 https://conda.anaconda.org/conda-forge/osx-64/zstd-1.4.9-h582d3a0_0.tar.bz2#551e04087371339ee63524f2988faa62
 https://conda.anaconda.org/conda-forge/osx-64/libcurl-7.76.1-h8ef9fac_1.tar.bz2#c85e850ce40b713b2183cf208e90a493
 https://conda.anaconda.org/conda-forge/osx-64/libglib-2.68.1-hd556434_0.tar.bz2#a2919868ce5a9ca26eb20689b5ce6baa
-https://conda.anaconda.org/conda-forge/osx-64/libopenblas-0.3.12-openmp_h54245bb_1.tar.bz2#ecaffce11312c27c18ad35e65095fecc
+https://conda.anaconda.org/conda-forge/osx-64/libopenblas-0.3.15-openmp_h5e1b9a4_0.tar.bz2#525c7ad3ebfe59da22533ee7a086fec5
 https://conda.anaconda.org/conda-forge/osx-64/libpq-13.2-h052a64a_2.tar.bz2#732402ddc4a736fa03e778eb73a26a9d
 https://conda.anaconda.org/conda-forge/osx-64/libtiff-4.2.0-h7c11950_1.tar.bz2#2ee38232ee57a171f8699ee1ef528710
 https://conda.anaconda.org/conda-forge/osx-64/mpc-1.1.0-ha57cd0f_1009.tar.bz2#e97438cea7c25b9906edf9525f580674
@@ -105,7 +105,7 @@ https://conda.anaconda.org/conda-forge/noarch/iniconfig-1.1.1-pyh9f0ad1d_0.tar.b
 https://conda.anaconda.org/conda-forge/noarch/ipython_genutils-0.2.0-py_1.tar.bz2#5071c982548b3a20caf70462f04f5287
 https://conda.anaconda.org/conda-forge/noarch/jupyterlab_widgets-1.0.0-pyhd8ed1ab_1.tar.bz2#f8da92114c8fbe1d951b0efaf54dd14b
 https://conda.anaconda.org/conda-forge/osx-64/lcms2-2.12-h577c468_0.tar.bz2#abce77b852b73670e85e104746b0ea1b
-https://conda.anaconda.org/conda-forge/osx-64/libblas-3.9.0-8_openblas.tar.bz2#054ee8e709d3d9c2678a3c8bda034896
+https://conda.anaconda.org/conda-forge/osx-64/libblas-3.9.0-9_openblas.tar.bz2#18bd6d171a80f1fefbad09cfda003840
 https://conda.anaconda.org/conda-forge/noarch/locket-0.2.0-py_2.tar.bz2#709e8671651c7ec3d1ad07800339ff1d
 https://conda.anaconda.org/conda-forge/noarch/more-itertools-8.7.0-pyhd8ed1ab_1.tar.bz2#d51aa0bff3e4da989b2ab3a7f3e52dfc
 https://conda.anaconda.org/conda-forge/noarch/mpmath-1.2.1-pyhd8ed1ab_0.tar.bz2#9b06ebbd24f7c60ba5a29117c528514e
@@ -160,8 +160,8 @@ https://conda.anaconda.org/conda-forge/noarch/hyperlink-21.0.0-pyhd3deb0d_0.tar.
 https://conda.anaconda.org/conda-forge/osx-64/importlib-metadata-4.0.1-py39h6e9494a_0.tar.bz2#eca034007cf0e88100420a0c127cac7f
 https://conda.anaconda.org/conda-forge/osx-64/jedi-0.18.0-py39h6e9494a_2.tar.bz2#e744e49642242ea6ab59b56d11df9466
 https://conda.anaconda.org/conda-forge/osx-64/kiwisolver-1.3.1-py39hedf5dff_1.tar.bz2#7953823f52fe5497c75bfe5ff158cdd8
-https://conda.anaconda.org/conda-forge/osx-64/libcblas-3.9.0-8_openblas.tar.bz2#67acafbc05ce608462a59740ef546b52
-https://conda.anaconda.org/conda-forge/osx-64/liblapack-3.9.0-8_openblas.tar.bz2#f20c01455d69b8a613bb92cd4544b553
+https://conda.anaconda.org/conda-forge/osx-64/libcblas-3.9.0-9_openblas.tar.bz2#29ce1ba7a9eb9aff4f65fa9e63d89c81
+https://conda.anaconda.org/conda-forge/osx-64/liblapack-3.9.0-9_openblas.tar.bz2#4864f19fafd76c5ac7771f4942682bc1
 https://conda.anaconda.org/conda-forge/osx-64/libnetcdf-4.8.0-nompi_h81fa352_101.tar.bz2#5e92dae971dfe8eb3159beb2c70c5246
 https://conda.anaconda.org/conda-forge/osx-64/llvmlite-0.36.0-py39h798a4f4_0.tar.bz2#8eceef66e7247bcd40df164d8f3c86d1
 https://conda.anaconda.org/conda-forge/osx-64/markupsafe-1.1.1-py39hcbf5805_3.tar.bz2#61c917431de9a4f98044c1e97b167995
