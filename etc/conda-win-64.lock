@@ -132,7 +132,7 @@ https://conda.anaconda.org/conda-forge/noarch/execnet-1.8.1-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/gitdb-4.0.7-pyhd8ed1ab_0.tar.bz2#12977b4cc317a6ee2939aedcb09a4898
 https://conda.anaconda.org/conda-forge/win-64/hdf5-1.10.6-nompi_h5268f04_1114.tar.bz2#31de6a434e8cfef843303d123c1158ff
 https://conda.anaconda.org/conda-forge/noarch/hyperlink-21.0.0-pyhd3deb0d_0.tar.bz2#1303beb57b40f8f4ff6fb1bb23bf0553
-https://conda.anaconda.org/conda-forge/win-64/importlib-metadata-4.3.1-py37h03978a9_0.tar.bz2#2d8037fb6f822508bc78000f40084f42
+https://conda.anaconda.org/conda-forge/win-64/importlib-metadata-4.4.0-py37h03978a9_0.tar.bz2#ead634d7f52507142cba9952c65c82b3
 https://conda.anaconda.org/conda-forge/win-64/jedi-0.18.0-py37h03978a9_2.tar.bz2#071560e0cb1e1cad66ec740ef69eb541
 https://conda.anaconda.org/conda-forge/win-64/kiwisolver-1.3.1-py37h8c56517_1.tar.bz2#ce90a3041640620d27bdc2e87d5768ae
 https://conda.anaconda.org/conda-forge/win-64/lcms2-2.12-h2a16943_0.tar.bz2#fee639c27301c4165b4d1f7e442de8a5
@@ -174,7 +174,7 @@ https://conda.anaconda.org/conda-forge/win-64/edt-2.1.0-py37h8c56517_0.tar.bz2#c
 https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.17-pyhd8ed1ab_0.tar.bz2#915fe5706364d57cccb86f3ae76119a2
 https://conda.anaconda.org/conda-forge/win-64/h5py-3.2.1-nompi_py37he280515_100.tar.bz2#c42975c43f0c1a070b4bca0b680c6fd8
 https://conda.anaconda.org/conda-forge/win-64/imagecodecs-2021.1.11-py37h1890f79_0.tar.bz2#3d5b4d12ce48f376335973ce14474dfe
-https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-4.3.1-hd8ed1ab_0.tar.bz2#77f8250606a70fd0b933650b0ada691f
+https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-4.4.0-hd8ed1ab_0.tar.bz2#cc623f404f4ea1e031890cca57e8f83c
 https://conda.anaconda.org/conda-forge/noarch/jinja2-3.0.1-pyhd8ed1ab_0.tar.bz2#c647e77921fd3e245cdcc5b2d451a0f8
 https://conda.anaconda.org/conda-forge/win-64/jupyter_core-4.7.1-py37h03978a9_0.tar.bz2#a260fc63f2edd2225780917c732fe32f
 https://conda.anaconda.org/conda-forge/win-64/libnetcdf-4.7.4-nompi_h3a9aa94_107.tar.bz2#bdb113a8a711c5bc86e6b18b6b852c8f
