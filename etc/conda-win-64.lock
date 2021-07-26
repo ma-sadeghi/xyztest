@@ -5,7 +5,7 @@
 https://conda.anaconda.org/conda-forge/win-64/ca-certificates-2021.5.30-h5b45459_0.tar.bz2#cfb6380d41af681ad323403f02755a15
 https://conda.anaconda.org/conda-forge/win-64/intel-openmp-2021.3.0-h57928b3_3372.tar.bz2#ed1a9bef95e027ee26362fcc250a1851
 https://conda.anaconda.org/conda-forge/win-64/msys2-conda-epoch-20160418-1.tar.bz2#b0309b72560df66f71a9d5e34a5efdfa
-https://conda.anaconda.org/conda-forge/win-64/pandoc-2.14.0.3-h8ffe710_0.tar.bz2#7bc314fc035cf141bfbaaa48bb5d0303
+https://conda.anaconda.org/conda-forge/win-64/pandoc-2.14.1-h8ffe710_0.tar.bz2#36db03a62f4f96ef4f1f262b0945b8db
 https://conda.anaconda.org/conda-forge/win-64/ucrt-10.0.20348.0-h57928b3_0.tar.bz2#6d666b6ea8251231ff508062d1e41f9c
 https://conda.anaconda.org/conda-forge/win-64/winpty-0.4.3-4.tar.bz2#1cee351bf20b830d991dbe0bc8cd7dfe
 https://conda.anaconda.org/conda-forge/win-64/m2w64-gmp-6.1.0-2.tar.bz2#53a1c73e1e3d185516d7e3af177596d9
@@ -175,9 +175,9 @@ https://conda.anaconda.org/conda-forge/win-64/brotlipy-0.7.0-py37hcc03f2d_1001.t
 https://conda.anaconda.org/conda-forge/win-64/cgns-4.1.2-h06b8a9c_0.tar.bz2#39e9b798c1bc6ba099c9a11bebebfe7f
 https://conda.anaconda.org/conda-forge/win-64/click-8.0.1-py37h03978a9_0.tar.bz2#8048d55b1f205f8e0680646b92690662
 https://conda.anaconda.org/conda-forge/win-64/cryptography-3.4.7-py37h20c650d_0.tar.bz2#9e4498c6cd84334d6f3e0332e4f991c2
-https://conda.anaconda.org/conda-forge/noarch/dask-core-2021.7.0-pyhd8ed1ab_0.tar.bz2#6d5a65de117d7c01079df5b258f411c4
+https://conda.anaconda.org/conda-forge/noarch/dask-core-2021.7.1-pyhd8ed1ab_0.tar.bz2#4117b9081844d73b1f8fa476333b9c0f
 https://conda.anaconda.org/conda-forge/win-64/edt-2.1.1-py37h8c56517_0.tar.bz2#e980714b8151da59dd5809c8e89e108b
-https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.18-pyhd8ed1ab_0.tar.bz2#19520f600cddf466cc3551e521809b66
+https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.19-pyhd8ed1ab_0.tar.bz2#73fe389c1d689e3cbeb3e077dacd4d07
 https://conda.anaconda.org/conda-forge/win-64/h5py-3.3.0-nompi_py37he280515_100.tar.bz2#c60ada4357c3fdbaf9d5c6ae23f95e92
 https://conda.anaconda.org/conda-forge/win-64/imagecodecs-2021.1.11-py37h1890f79_0.tar.bz2#3d5b4d12ce48f376335973ce14474dfe
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-4.6.1-hd8ed1ab_0.tar.bz2#d5ff9abb27ab799d4a730e86aa0c5aeb
@@ -186,9 +186,9 @@ https://conda.anaconda.org/conda-forge/win-64/jupyter_core-4.7.1-py37h03978a9_0.
 https://conda.anaconda.org/conda-forge/win-64/libnetcdf-4.7.4-nompi_h3a9aa94_107.tar.bz2#bdb113a8a711c5bc86e6b18b6b852c8f
 https://conda.anaconda.org/conda-forge/noarch/matplotlib-inline-0.1.2-pyhd8ed1ab_2.tar.bz2#0967e1db58b16e416464ca399f87df79
 https://conda.anaconda.org/conda-forge/win-64/numpy-stl-2.16.0-py37hebb4d16_0.tar.bz2#03b606dccf23f936eb7eeb716d1fcdb3
-https://conda.anaconda.org/conda-forge/win-64/pandas-1.3.0-py37h90003fb_0.tar.bz2#2c76a19fc06c01e9a721e04d5ada07ca
+https://conda.anaconda.org/conda-forge/win-64/pandas-1.3.1-py37h90003fb_0.tar.bz2#143d5f6bdacb08508146d0aaed89e7a6
 https://conda.anaconda.org/conda-forge/win-64/pillow-8.2.0-py37h96663a1_1.tar.bz2#aadf4cec7cbc426056f3866b89ff996c
-https://conda.anaconda.org/conda-forge/noarch/pyevtk-1.3.0-pyh8a188c0_0.tar.bz2#12dd983e7684fe1a5aa49dfcfc8899cf
+https://conda.anaconda.org/conda-forge/noarch/pyevtk-1.4.1-pyh8a188c0_0.tar.bz2#78cd9abeb15a8129dd7b8aa79b3c3a31
 https://conda.anaconda.org/conda-forge/win-64/pyqt-impl-5.12.3-py37hf2a7229_7.tar.bz2#8f962f9f8aace2f9288c7e72414b5fab
 https://conda.anaconda.org/conda-forge/win-64/pysocks-1.7.1-py37h03978a9_3.tar.bz2#57ff67171877b6aa4575b3e9a183b92a
 https://conda.anaconda.org/conda-forge/win-64/pywavelets-1.1.1-py37hda49f71_3.tar.bz2#171556c135a2ef4bcdf6dd8157415a78
@@ -199,7 +199,7 @@ https://conda.anaconda.org/conda-forge/noarch/transforms3d-0.3.1-py_0.tar.bz2#6d
 https://conda.anaconda.org/conda-forge/noarch/backports.functools_lru_cache-1.6.4-pyhd8ed1ab_0.tar.bz2#c5b3edc62d6309088f4970b3eaaa65a6
 https://conda.anaconda.org/conda-forge/noarch/bleach-3.3.1-pyhd8ed1ab_0.tar.bz2#41c16b233ae28fa75019842836b55254
 https://conda.anaconda.org/conda-forge/win-64/bokeh-2.3.3-py37h03978a9_0.tar.bz2#68283daad26f6168897a745040fa3f33
-https://conda.anaconda.org/conda-forge/win-64/distributed-2021.7.0-py37h03978a9_0.tar.bz2#d821f7a909fdfcc8fa595f1f3306efc4
+https://conda.anaconda.org/conda-forge/win-64/distributed-2021.7.1-py37h03978a9_0.tar.bz2#390ed50d9b5d23d8a85370b25f0612ed
 https://conda.anaconda.org/conda-forge/noarch/imageio-2.9.0-py_0.tar.bz2#62ad9e579278e777d4abaa8c9312b6a7
 https://conda.anaconda.org/conda-forge/noarch/json_tricks-3.15.5-pyhd8ed1ab_0.tar.bz2#92ea408376b5a0b274b5ab636967297a
 https://conda.anaconda.org/conda-forge/noarch/jsonschema-3.2.0-pyhd8ed1ab_3.tar.bz2#66125e28711d8ffc04a207a2b170316d
@@ -208,7 +208,7 @@ https://conda.anaconda.org/conda-forge/win-64/matplotlib-base-3.4.2-py37h0d1fb12
 https://conda.anaconda.org/conda-forge/noarch/networkx-2.5-py_0.tar.bz2#d836ad8453c22192357707026ca21653
 https://conda.anaconda.org/conda-forge/win-64/numba-0.53.1-py37h9690626_1.tar.bz2#95ecc9bce9632e14ed14836d8ff2b72b
 https://conda.anaconda.org/conda-forge/noarch/pardiso4py-0.3.3-pyhd8ed1ab_0.tar.bz2#6b77450af857506200bc78d913f01aa4
-https://conda.anaconda.org/conda-forge/noarch/pip-21.1.3-pyhd8ed1ab_0.tar.bz2#231bd0af116f55ca4d17ea0869415fdf
+https://conda.anaconda.org/conda-forge/noarch/pip-21.2.1-pyhd8ed1ab_0.tar.bz2#155f04d007b5676c917e8287f9aee3d2
 https://conda.anaconda.org/conda-forge/win-64/pluggy-0.13.1-py37h03978a9_4.tar.bz2#5f4cfa7e8c6b5cb40cf71cb1730e62d4
 https://conda.anaconda.org/conda-forge/win-64/pyamg-4.1.0-py37hb605e8c_0.tar.bz2#6f87ae48f73062430cb562dcaa254250
 https://conda.anaconda.org/conda-forge/noarch/pygments-2.9.0-pyhd8ed1ab_0.tar.bz2#a2d9bba43c9b80a42b0ccb9afd7223c2
@@ -218,7 +218,7 @@ https://conda.anaconda.org/conda-forge/win-64/pyqtwebengine-5.12.1-py37hf2a7229_
 https://conda.anaconda.org/conda-forge/noarch/tifffile-2021.3.17-pyhd8ed1ab_0.tar.bz2#9cfba5e3844f16a1e270fb65f3207b17
 https://conda.anaconda.org/conda-forge/win-64/zope.interface-5.4.0-py37hcc03f2d_0.tar.bz2#ffffceaaa187c5f232400ab4dc0f5782
 https://conda.anaconda.org/conda-forge/win-64/bcrypt-3.2.0-py37hcc03f2d_1.tar.bz2#0e3daee6c10c31d1f256005fb08dba47
-https://conda.anaconda.org/conda-forge/noarch/dask-2021.7.0-pyhd8ed1ab_0.tar.bz2#fd786e1160db45a20d66992d8e1833d3
+https://conda.anaconda.org/conda-forge/noarch/dask-2021.7.1-pyhd8ed1ab_0.tar.bz2#bb93228d5103eb0a985edd0ce1f05454
 https://conda.anaconda.org/conda-forge/noarch/jupyterlab_pygments-0.1.2-pyh9f0ad1d_0.tar.bz2#2cbd910890bb328e8959246a1e16fac7
 https://conda.anaconda.org/conda-forge/noarch/nbformat-5.1.3-pyhd8ed1ab_0.tar.bz2#bafa5df6d4f8db69a4d197b4657127e7
 https://conda.anaconda.org/conda-forge/win-64/pyqt-5.12.3-py37h03978a9_7.tar.bz2#146197193dbe4bc1fc04b03933d8f74b
