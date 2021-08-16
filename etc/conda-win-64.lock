@@ -216,7 +216,7 @@ https://conda.anaconda.org/conda-forge/noarch/pint-0.17-pyhd8ed1ab_0.tar.bz2#7a3
 https://conda.anaconda.org/conda-forge/noarch/pip-21.2.4-pyhd8ed1ab_0.tar.bz2#4104ada314dd5639ea36cc12bce0a2cd
 https://conda.anaconda.org/conda-forge/win-64/pluggy-0.13.1-py37h03978a9_4.tar.bz2#5f4cfa7e8c6b5cb40cf71cb1730e62d4
 https://conda.anaconda.org/conda-forge/win-64/pyamg-4.1.0-py37h5179a28_0.tar.bz2#adad476f1e6c14141adec7653c46ebb2
-https://conda.anaconda.org/conda-forge/noarch/pygments-2.9.0-pyhd8ed1ab_0.tar.bz2#a2d9bba43c9b80a42b0ccb9afd7223c2
+https://conda.anaconda.org/conda-forge/noarch/pygments-2.10.0-pyhd8ed1ab_0.tar.bz2#32bcce837f1316f1c3208118b6c5e5fc
 https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2#92371c25994d0f5d28a01c1fb75ebf86
 https://conda.anaconda.org/conda-forge/noarch/pypardiso-0.3.3-pyhd8ed1ab_0.tar.bz2#d9b832ac479a617f6cab5b598c770a76
 https://conda.anaconda.org/conda-forge/win-64/pyqtchart-5.12-py37hf2a7229_7.tar.bz2#93e0129a5ae9edd920137f26742fcff3
@@ -248,7 +248,7 @@ https://conda.anaconda.org/conda-forge/win-64/nbconvert-6.1.0-py37h03978a9_0.tar
 https://conda.anaconda.org/conda-forge/win-64/paraview-5.8.1-py37h1bac1c2_2.tar.bz2#71b8e5ace2ce9bc09475c4d6afc192c5
 https://conda.anaconda.org/conda-forge/noarch/pooch-1.4.0-pyhd8ed1ab_0.tar.bz2#ac1a05fdf13be824cc764eddac0dde9c
 https://conda.anaconda.org/conda-forge/noarch/prompt_toolkit-3.0.19-hd8ed1ab_0.tar.bz2#22417c53873d61803b8eda5ba13fd85d
-https://conda.anaconda.org/conda-forge/win-64/ipykernel-6.1.0-py37h4038f58_0.tar.bz2#20eba8f990b59ba16903cc6db3749d88
+https://conda.anaconda.org/conda-forge/win-64/ipykernel-6.2.0-py37h4038f58_0.tar.bz2#c0c4ff5e8abea622c1da3ff9403d7768
 https://conda.anaconda.org/conda-forge/win-64/scikit-image-0.18.2-py37h90003fb_0.tar.bz2#73b45bf5cc897e2c6fabe7491f743e29
 https://conda.anaconda.org/conda-forge/noarch/jupyter_console-6.4.0-pyhd8ed1ab_0.tar.bz2#ee5895aebb8104e4e087f06aae64977a
 https://conda.anaconda.org/conda-forge/noarch/nbval-0.9.6-pyh9f0ad1d_0.tar.bz2#b627e05284e7affc46b6e4878aa1d96b
