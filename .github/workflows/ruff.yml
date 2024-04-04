@@ -1,4 +1,4 @@
-name: CheckPython
+name: CheckPython2
 
 on: [pull_request]
 
