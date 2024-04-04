@@ -1,0 +1,5 @@
+[lint]
+preview = true
+select = ["ALL"]
+[format]
+preview = true

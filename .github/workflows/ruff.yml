@@ -1,6 +1,6 @@
-name: CheckPython
+name: CheckPython2
 
-on: [push, pull_request]
+on: [pull_request]
 
 jobs:
   clean-python:
