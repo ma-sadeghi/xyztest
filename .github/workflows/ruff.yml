@@ -9,4 +9,4 @@ jobs:
       - uses: actions/checkout@v4
       - uses: ma-sadeghi/ruff-action@feature/changed-only
         with:
-          changed-files: "flase"
+          changed-files: "true"
