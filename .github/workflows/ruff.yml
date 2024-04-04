@@ -8,3 +8,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: ma-sadeghi/ruff-action@feature/changed-only
+        with:
+          changed-files: "true"
